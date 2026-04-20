@@ -11,6 +11,8 @@ SEASON_END    = date(2026, 6, 15)
 BASE_URL      = "https://www.mshsaa.org/activities/scoreboard.aspx?alg=34&date={}"
 MAX_GOALS     = 20
 OUTPUT_PATH   = "ratings.json"
+CLASS_PATH    = "classifications.json"
+CLASS_OUTPUTS = {i: f"ratings_class{i}.json" for i in range(1, 5)}
 CSV_PATH      = "scoreboard.csv"
 ITERATIONS    = 1000
 LEARNING_RATE = 0.1
@@ -33,7 +35,7 @@ def parse_score(text):
 def is_forfeit(c1, c2):
     return "forfeit" in (c1.get_text() + c2.get_text()).lower()
  
-def scrape_date(target_date):
+def scrape_date(target_date, valid_teams=None):
     url = BASE_URL.format(target_date.strftime("%m%d%Y"))
     try:
         resp = requests.get(url, timeout=20, headers={
@@ -69,22 +71,30 @@ def scrape_date(target_date):
         s2 = parse_score(t2c[2].get_text())
         if s1 is None or s2 is None:
             continue
+ 
+        t1_name = l1.get_text().strip()
+        t2_name = l2.get_text().strip()
+ 
+        if valid_teams is not None:
+            if t1_name not in valid_teams or t2_name not in valid_teams:
+                continue
+ 
         games.append((
             target_date.strftime("%Y-%m-%d"),
-            l1.get_text().strip(),
+            t1_name,
             s1,
-            l2.get_text().strip(),
+            t2_name,
             s2
         ))
  
     return games
  
-def scrape_full_season():
+def scrape_full_season(valid_teams=None):
     all_games = []
     current   = SEASON_START
     while current <= min(SEASON_END, date.today()):
         print(f"  Scraping {current}...", end=" ", flush=True)
-        day_games = scrape_date(current)
+        day_games = scrape_date(current, valid_teams)
         all_games.extend(day_games)
         print(f"{len(day_games)} games")
         current += timedelta(days=1)
@@ -102,19 +112,16 @@ def save_csv(all_games):
 # --- RATING ENGINE ---
  
 def calculate_ratings(all_games, iterations=ITERATIONS):
-    # Strip date from games for rating calculations
     games = [(t1, t2, s1, s2) for _, t1, s1, t2, s2 in all_games]
  
     teams = list({t for t1, t2, _, _ in games for t in (t1, t2)})
     if not teams:
-        return {}, {}, {}
+        return {}, {}, {}, 0
  
-    # Calculate league average goals per game
     all_scores = [s for _, _, s1, s2 in games for s in (s1, s2)]
     league_avg = sum(all_scores) / len(all_scores)
     print(f"  League average: {league_avg:.2f} goals per game")
  
-    # Initialize all ratings at 0
     off_rating = {t: 0.0 for t in teams}
     def_rating = {t: 0.0 for t in teams}
  
@@ -148,30 +155,50 @@ def calculate_ratings(all_games, iterations=ITERATIONS):
         if (iteration + 1) % 100 == 0:
             print(f"  Iteration {iteration + 1}/{iterations} complete")
  
-    # OVR = OFF + DEF (no normalization — raw sum in goals above/below average)
     ovr_rating = {t: round(off_rating[t] + def_rating[t], 2) for t in teams}
  
     return off_rating, def_rating, ovr_rating, league_avg
  
+# --- CLASSIFICATIONS ---
  
-def save_json(off_rating, def_rating, ovr_rating, league_avg):
+def load_classifications():
+    try:
+        with open(CLASS_PATH, "r") as f:
+            data = json.load(f)
+        return {entry["school"]: {"classification": entry["classification"], "district": entry["district"]}
+                for entry in data["teams"]}
+    except FileNotFoundError:
+        print(f"  Warning: {CLASS_PATH} not found — classification/district will be omitted.")
+        return {}
+ 
+# --- OUTPUT ---
+ 
+def save_json(off_rating, def_rating, ovr_rating, league_avg, classifications):
     teams      = sorted(ovr_rating, key=lambda t: ovr_rating[t], reverse=True)
     off_ranked = sorted(teams, key=lambda t: off_rating[t], reverse=True)
     def_ranked = sorted(teams, key=lambda t: def_rating[t], reverse=True)
     off_rank   = {t: i+1 for i, t in enumerate(off_ranked)}
     def_rank   = {t: i+1 for i, t in enumerate(def_ranked)}
  
+    unmatched = [t for t in teams if t not in classifications]
+    if unmatched:
+        print(f"  Warning: {len(unmatched)} teams not found in classifications.json:")
+        for t in unmatched:
+            print(f"    - {t}")
+ 
     output = {
         "last_updated":   datetime.now().strftime("%B %d, %Y at %I:%M %p"),
         "league_average": round(league_avg, 2),
         "teams": [{
-            "ovr_rank":   i + 1,
-            "school":     t,
-            "ovr_rating": ovr_rating[t],
-            "off_rating": round(off_rating[t], 2),
-            "off_rank":   off_rank[t],
-            "def_rating": round(def_rating[t], 2),
-            "def_rank":   def_rank[t]
+            "ovr_rank":       i + 1,
+            "school":         t,
+            "classification": classifications.get(t, {}).get("classification", ""),
+            "district":       classifications.get(t, {}).get("district", ""),
+            "ovr_rating":     ovr_rating[t],
+            "off_rating":     round(off_rating[t], 2),
+            "off_rank":       off_rank[t],
+            "def_rating":     round(def_rating[t], 2),
+            "def_rank":       def_rank[t]
         } for i, t in enumerate(teams)]
     }
  
@@ -188,9 +215,60 @@ def save_json(off_rating, def_rating, ovr_rating, league_avg):
               f"| DEF: {entry['def_rating']:+.2f}")
  
  
+def save_class_json(off_rating, def_rating, ovr_rating, league_avg, classifications):
+    for class_num in range(1, 5):  # Girls Soccer has Classes 1-4
+        class_teams = [t for t in ovr_rating if classifications.get(t, {}).get("classification") == class_num]
+ 
+        if not class_teams:
+            print(f"  No teams found for Class {class_num} — skipping.")
+            continue
+ 
+        sorted_teams  = sorted(class_teams, key=lambda t: ovr_rating[t], reverse=True)
+        off_ranked    = sorted(class_teams, key=lambda t: off_rating[t], reverse=True)
+        def_ranked    = sorted(class_teams, key=lambda t: def_rating[t], reverse=True)
+        off_rank      = {t: i+1 for i, t in enumerate(off_ranked)}
+        def_rank      = {t: i+1 for i, t in enumerate(def_ranked)}
+ 
+        output = {
+            "last_updated":   datetime.now().strftime("%B %d, %Y at %I:%M %p"),
+            "league_average": round(league_avg, 2),
+            "classification": class_num,
+            "teams": [{
+                "ovr_rank":       i + 1,
+                "school":         t,
+                "classification": class_num,
+                "district":       classifications.get(t, {}).get("district", ""),
+                "ovr_rating":     ovr_rating[t],
+                "off_rating":     round(off_rating[t], 2),
+                "off_rank":       off_rank[t],
+                "def_rating":     round(def_rating[t], 2),
+                "def_rank":       def_rank[t]
+            } for i, t in enumerate(sorted_teams)]
+        }
+ 
+        path = CLASS_OUTPUTS[class_num]
+        with open(path, "w") as f:
+            json.dump(output, f, indent=2)
+ 
+        print(f"  Class {class_num}: {len(sorted_teams)} teams saved to {path}")
+        if output["teams"]:
+            top = output["teams"][0]
+            print(f"    Top team: {top['school']} | OVR: {top['ovr_rating']:+.2f}")
+ 
+ 
 if __name__ == "__main__":
     print("=== MSHSAA Girls Soccer Ratings ===")
-    all_games = scrape_full_season()
+ 
+    classifications = load_classifications()
+    if classifications:
+        valid_teams = set(classifications.keys())
+        print(f"Loaded {len(valid_teams)} valid MSHSAA teams from {CLASS_PATH}")
+    else:
+        valid_teams = None
+        print("No team filtering applied.")
+ 
+    print("\nScraping season games...")
+    all_games = scrape_full_season(valid_teams)
     print(f"\nTotal valid games: {len(all_games)}")
     if not all_games:
         print("No games found — exiting.")
@@ -203,5 +281,10 @@ if __name__ == "__main__":
     off_rating, def_rating, ovr_rating, league_avg = calculate_ratings(all_games)
  
     print("\nSaving ratings JSON...")
-    save_json(off_rating, def_rating, ovr_rating, league_avg)
+    save_json(off_rating, def_rating, ovr_rating, league_avg, classifications)
+ 
+    print("\nSaving class-specific ratings JSON...")
+    save_class_json(off_rating, def_rating, ovr_rating, league_avg, classifications)
+ 
     print("\n=== Done ===")
+ 
