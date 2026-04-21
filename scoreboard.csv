@@ -454,6 +454,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-03,Nixa,2,Park Hill South,1
 2026-04-03,Lebanon,0,Parkview,1
 2026-04-03,Hazelwood East,0,Parkway North,8
+2026-04-03,Parkway Central,0,Parkway South,3
 2026-04-03,DeSoto,0,Windsor (Imperial),5
 2026-04-04,Francis Howell Central,0,Clayton,1
 2026-04-04,Liberty (Wentzville),0,Cor Jesu Academy,4
@@ -692,6 +693,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-10,Bolivar,8,McDonald County,0
 2026-04-10,Neosho,5,McDonald County,1
 2026-04-10,Willard,4,Monett,1
+2026-04-10,Fair Grove,3,Monett,2
 2026-04-10,Mid-Buchanan,0,North County,1
 2026-04-10,Camdenton,3,Osage,2
 2026-04-10,Smith-Cotton,0,Ozark,1
@@ -863,6 +865,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-15,Saxony Lutheran,1,Notre Dame (Cape Girardeau),4
 2026-04-15,Lindbergh,3,Notre Dame (St. Louis),1
 2026-04-15,Knob Noster,2,Oak Grove,4
+2026-04-15,Parkway West,3,Parkway South,0
 2026-04-15,Van Horn,1,Pleasant Hill,8
 2026-04-15,Benton,1,Savannah,3
 2026-04-15,North Point,7,St. Charles,0
@@ -897,6 +900,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-16,Lutheran South,2,Hillsboro,1
 2026-04-16,Kickapoo,0,Jackson,3
 2026-04-16,Marquette,3,Kirkwood,2
+2026-04-16,St. Pius X (Festus),0,Lafayette (Wildwood),4
+2026-04-16,Parkview,0,Lebanon,1
 2026-04-16,Liberty North,2,Liberty,1
 2026-04-16,Smith-Cotton,0,Logan-Rogersville,2
 2026-04-16,Fulton,1,Mexico,4
@@ -939,6 +944,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-17,Jackson,5,Glendale,0
 2026-04-17,Logan-Rogersville,4,Hickman,0
 2026-04-17,Rockwood Summit,5,Kickapoo,1
+2026-04-17,Battle,0,Lebanon,2
 2026-04-17,Nixa,2,Lee's Summit West,0
 2026-04-17,Cardinal Ritter,7,McKinley Classical Leadership,4
 2026-04-17,John Burroughs,1,Notre Dame (St. Louis),0
@@ -954,7 +960,52 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-18,Lee's Summit West,0,Kickapoo,2
 2026-04-18,Parkway Central,0,Ladue Horton Watkins,4
 2026-04-18,Lee's Summit,0,Lee's Summit North,3
+2026-04-18,Timberland,5,Marquette,1
+2026-04-18,Ft. Zumwalt South,2,Parkway West,0
 2026-04-18,Smith-Cotton,0,Rockwood Summit,3
 2026-04-18,West Plains,0,Sikeston,6
 2026-04-18,Nerinx Hall,1,Webster Groves,0
 2026-04-18,Lutheran South,1,Windsor (Imperial),2
+2026-04-19,Northwest (Cedar Hill),0,Fox,1
+2026-04-19,Parkway West,0,Ft. Zumwalt South,2
+2026-04-19,Hickman,0,Glendale,4
+2026-04-19,St. Michael the Archangel,5,Helias Catholic,2
+2026-04-19,St. Clair,1,Hillsboro,3
+2026-04-19,Nixa,2,Jackson,1
+2026-04-19,Lee's Summit West,0,Kickapoo,2
+2026-04-19,Parkway Central,0,Ladue Horton Watkins,4
+2026-04-19,Lee's Summit,0,Lee's Summit North,3
+2026-04-19,Timberland,5,Marquette,1
+2026-04-19,Ft. Zumwalt South,2,Parkway West,0
+2026-04-19,Smith-Cotton,0,Rockwood Summit,3
+2026-04-19,West Plains,0,Sikeston,6
+2026-04-19,Nerinx Hall,1,Webster Groves,0
+2026-04-19,Lutheran South,1,Windsor (Imperial),2
+2026-04-20,Cameron,0,Chillicothe,3
+2026-04-20,Eugene,1,Christian Fellowship Sr.,2
+2026-04-20,Pattonville,1,Duchesne,2
+2026-04-20,Warrenton,0,Elsberry with Silex,2
+2026-04-20,Raymore-Peculiar,2,Fort Osage,0
+2026-04-20,Rockwood Summit,4,Fox,1
+2026-04-20,St. Dominic,0,Francis Howell Central,1
+2026-04-20,Carthage,0,Glendale,7
+2026-04-20,St. Francis Borgia,0,Helias Catholic,8
+2026-04-20,Jefferson City,0,Hickman,1
+2026-04-20,Willard,2,Hillcrest,0
+2026-04-20,Eureka,1,Kirkwood,3
+2026-04-20,Central (Springfield),1,Laquey with Richland,0
+2026-04-20,Lee's Summit West,1,Lee's Summit North,0
+2026-04-20,Oak Grove,3,Lone Jack,2
+2026-04-20,Benton,0,Maryville,7
+2026-04-20,Marshall,9,Mexico,1
+2026-04-20,Ursuline Academy,4,Notre Dame (St. Louis),0
+2026-04-20,Wright City,4,Owensville,0
+2026-04-20,Liberty North,3,Park Hill South,1
+2026-04-20,New Covenant Academy,3,Parkview,0
+2026-04-20,Battle,0,Rock Bridge,9
+2026-04-20,Pacific,2,St. James,0
+2026-04-20,Blue Springs South,2,Staley,0
+2026-04-20,California,1,Stover with Cole Camp,4
+2026-04-20,Veritas Christian Academy,1,Villa Duchesne,2
+2026-04-20,MICDS,8,Whitfield,0
+2026-04-20,Webster Groves,5,Windsor (Imperial),0
