@@ -253,7 +253,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-03-28,MICDS,9,Mexico,0
 2026-03-28,Owensville,4,Mexico,1
 2026-03-28,Villa Duchesne,3,Mid-Buchanan,0
-2026-03-28,Blair Oaks,5,Monett,1
+2026-03-28,Blair Oaks,4,Monett,1
+2026-03-28,Branson,5,Monett,1
 2026-03-28,Eureka,2,North Point,1
 2026-03-28,St. Teresa's Academy,8,Notre Dame de Sion,0
 2026-03-28,Timberland,3,Parkway West,0
@@ -358,7 +359,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-03-31,Moberly,3,Smithton,2
 2026-03-31,Orchard Farm,6,St. Charles West,0
 2026-03-31,North County,2,St. Clair,3
-2026-03-31,Faith Christian Academy,2,St. Joseph Christian,4
+2026-03-31,Faith Christian Academy,2,St. Joseph Christian,3
 2026-03-31,Ft. Zumwalt North,1,Timberland,2
 2026-03-31,Francis Howell,2,Troy Buchanan,0
 2026-03-31,Duchesne,1,Villa Duchesne,3
@@ -981,31 +982,88 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-19,West Plains,0,Sikeston,6
 2026-04-19,Nerinx Hall,1,Webster Groves,0
 2026-04-19,Lutheran South,1,Windsor (Imperial),2
+2026-04-20,Bolivar,8,Aurora,0
 2026-04-20,Cameron,0,Chillicothe,3
 2026-04-20,Eugene,1,Christian Fellowship Sr.,2
 2026-04-20,Pattonville,1,Duchesne,2
 2026-04-20,Warrenton,0,Elsberry with Silex,2
+2026-04-20,Greenwood,0,Fair Grove,1
+2026-04-20,Lutheran St. Charles,3,Father Tolton,2
+2026-04-20,Fulton,5,Fatima,1
 2026-04-20,Raymore-Peculiar,2,Fort Osage,0
 2026-04-20,Rockwood Summit,4,Fox,1
 2026-04-20,St. Dominic,0,Francis Howell Central,1
+2026-04-20,St. Clair,9,Fredericktown,1
 2026-04-20,Carthage,0,Glendale,7
+2026-04-20,William Chrisman,2,Grain Valley,9
+2026-04-20,Ewing Marion Kauffman with University Academy Charter,1,Grandview,2
 2026-04-20,St. Francis Borgia,0,Helias Catholic,8
 2026-04-20,Jefferson City,0,Hickman,1
 2026-04-20,Willard,2,Hillcrest,0
 2026-04-20,Eureka,1,Kirkwood,3
 2026-04-20,Central (Springfield),1,Laquey with Richland,0
 2026-04-20,Lee's Summit West,1,Lee's Summit North,0
+2026-04-20,St. Joseph's Academy,2,Lindbergh,0
 2026-04-20,Oak Grove,3,Lone Jack,2
 2026-04-20,Benton,0,Maryville,7
 2026-04-20,Marshall,9,Mexico,1
+2026-04-20,Lafayette (Wildwood),0,North Point,0
 2026-04-20,Ursuline Academy,4,Notre Dame (St. Louis),0
 2026-04-20,Wright City,4,Owensville,0
 2026-04-20,Liberty North,3,Park Hill South,1
 2026-04-20,New Covenant Academy,3,Parkview,0
+2026-04-20,St. Charles,1,Parkway West,5
+2026-04-20,Cristo Rey,0,Raytown South,8
 2026-04-20,Battle,0,Rock Bridge,9
+2026-04-20,Winnetonka,6,Ruskin,3
+2026-04-20,Excelsior Springs,3,Savannah,2
+2026-04-20,Hazelwood West,0,Seckman,6
+2026-04-20,Camdenton,0,Southern Boone,8
 2026-04-20,Pacific,2,St. James,0
+2026-04-20,Liberty,0,St. Pius X (Kansas City),1
 2026-04-20,Blue Springs South,2,Staley,0
 2026-04-20,California,1,Stover with Cole Camp,4
 2026-04-20,Veritas Christian Academy,1,Villa Duchesne,2
+2026-04-20,Sacred Heart,2,Warrensburg,4
+2026-04-20,Liberty (Mountain View),2,West Plains,3
 2026-04-20,MICDS,8,Whitfield,0
 2026-04-20,Webster Groves,5,Windsor (Imperial),0
+2026-04-21,Pembroke Hill,7,Barstow,0
+2026-04-21,Brentwood,3,Bayless,0
+2026-04-21,Fort Osage,4,Belton,0
+2026-04-21,Benton,0,Bishop LeBlond,6
+2026-04-21,Fatima,0,Blair Oaks,8
+2026-04-21,Raymore-Peculiar,2,Blue Springs,1
+2026-04-21,Carl Junction,1,Bolivar,2
+2026-04-21,West Plains,0,Branson,3
+2026-04-21,Farmington,2,Central (Cape Girardeau),1
+2026-04-21,Lebanon,0,Central (Springfield),1
+2026-04-21,Notre Dame (St. Louis),1,Duchesne,2
+2026-04-21,Owensville,2,Eugene,8
+2026-04-21,St. Vincent,5,Festus,0
+2026-04-21,Holt,0,Ft. Zumwalt East,4
+2026-04-21,North Point,1,Ft. Zumwalt South,2
+2026-04-21,Kirksville,0,Hannibal,1
+2026-04-21,Jennings,0,Hazelwood East,7
+2026-04-21,Marshfield,0,Hillcrest,2
+2026-04-21,Villa Duchesne,4,Incarnate Word Academy,1
+2026-04-21,Ozark,5,Kickapoo,0
+2026-04-21,St. James,0,Laquey with Richland,3
+2026-04-21,Springfield Catholic,2,Logan-Rogersville,1
+2026-04-21,Guadalupe Centers Charter,0,Mid-Buchanan,8
+2026-04-21,Southern Boone,3,Moberly,1
+2026-04-21,Perryville,8,North County,2
+2026-04-21,Faith Christian Academy,1,Northland Christian,4
+2026-04-21,Stover with Cole Camp,2,Odessa,0
+2026-04-21,Washington,0,Orchard Farm,2
+2026-04-21,Father Tolton,3,Osage,1
+2026-04-21,Central (St. Joseph),0,Park Hill South,7
+2026-04-21,John Burroughs,8,Principia,0
+2026-04-21,Webb City,4,Republic,5
+2026-04-21,Van Horn,0,St. Michael the Archangel,7
+2026-04-21,Smithville,1,St. Pius X (Kansas City),5
+2026-04-21,Notre Dame de Sion,3,Summit Christian Academy,0
+2026-04-21,Sullivan,2,Union,1
+2026-04-21,Marquette,2,Ursuline Academy,1
+2026-04-21,Nixa,8,Waynesville,0
+2026-04-21,Northwest (Cedar Hill),0,Webster Groves,1
