@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 24, 2026 at 02:13 PM",
+  "last_updated": "April 24, 2026 at 02:35 PM",
   "league_average": 2.42,
   "teams": [
     {
@@ -818,17 +818,6 @@
     },
     {
       "ovr_rank": 75,
-      "school": "North Kansas City",
-      "classification": 4,
-      "district": 8,
-      "ovr_rating": 2.38,
-      "off_rating": 0.85,
-      "off_rank": 85,
-      "def_rating": 1.52,
-      "def_rank": 70
-    },
-    {
-      "ovr_rank": 76,
       "school": "Pembroke Hill",
       "classification": 1,
       "district": 4,
@@ -837,6 +826,17 @@
       "off_rank": 106,
       "def_rating": 2.14,
       "def_rank": 50
+    },
+    {
+      "ovr_rank": 76,
+      "school": "North Kansas City",
+      "classification": 4,
+      "district": 8,
+      "ovr_rating": 2.38,
+      "off_rating": 0.85,
+      "off_rank": 85,
+      "def_rating": 1.52,
+      "def_rank": 70
     },
     {
       "ovr_rank": 77,
@@ -1412,17 +1412,6 @@
     },
     {
       "ovr_rank": 129,
-      "school": "Farmington",
-      "classification": 4,
-      "district": 1,
-      "ovr_rating": -1.1,
-      "off_rating": -1.14,
-      "off_rank": 144,
-      "def_rating": 0.04,
-      "def_rank": 114
-    },
-    {
-      "ovr_rank": 130,
       "school": "Wright City",
       "classification": 2,
       "district": 4,
@@ -1431,6 +1420,17 @@
       "off_rank": 140,
       "def_rating": -0.21,
       "def_rank": 120
+    },
+    {
+      "ovr_rank": 130,
+      "school": "Farmington",
+      "classification": 4,
+      "district": 1,
+      "ovr_rating": -1.1,
+      "off_rating": -1.14,
+      "off_rank": 144,
+      "def_rating": 0.04,
+      "def_rank": 114
     },
     {
       "ovr_rank": 131,
@@ -1500,17 +1500,6 @@
     },
     {
       "ovr_rank": 137,
-      "school": "North County",
-      "classification": 2,
-      "district": 1,
-      "ovr_rating": -1.85,
-      "off_rating": -0.75,
-      "off_rank": 133,
-      "def_rating": -1.1,
-      "def_rank": 140
-    },
-    {
-      "ovr_rank": 138,
       "school": "Saxony Lutheran",
       "classification": 2,
       "district": 1,
@@ -1519,6 +1508,17 @@
       "off_rank": 126,
       "def_rating": -1.29,
       "def_rank": 145
+    },
+    {
+      "ovr_rank": 138,
+      "school": "North County",
+      "classification": 2,
+      "district": 1,
+      "ovr_rating": -1.85,
+      "off_rating": -0.75,
+      "off_rank": 133,
+      "def_rating": -1.1,
+      "def_rank": 140
     },
     {
       "ovr_rank": 139,
@@ -1654,17 +1654,6 @@
     },
     {
       "ovr_rank": 151,
-      "school": "Bishop LeBlond",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -2.77,
-      "off_rating": -1.37,
-      "off_rank": 155,
-      "def_rating": -1.4,
-      "def_rank": 148
-    },
-    {
-      "ovr_rank": 152,
       "school": "Collegiate School of Med-Bio Science",
       "classification": 1,
       "district": 1,
@@ -1673,6 +1662,17 @@
       "off_rank": 161,
       "def_rating": -1.16,
       "def_rank": 142
+    },
+    {
+      "ovr_rank": 152,
+      "school": "Bishop LeBlond",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -2.77,
+      "off_rating": -1.37,
+      "off_rank": 155,
+      "def_rating": -1.4,
+      "def_rank": 148
     },
     {
       "ovr_rank": 153,
@@ -2127,17 +2127,6 @@
     },
     {
       "ovr_rank": 194,
-      "school": "Fredericktown",
-      "classification": 2,
-      "district": 1,
-      "ovr_rating": -6.68,
-      "off_rating": -2.72,
-      "off_rank": 189,
-      "def_rating": -3.97,
-      "def_rank": 204
-    },
-    {
-      "ovr_rank": 195,
       "school": "Odessa",
       "classification": 2,
       "district": 7,
@@ -2146,6 +2135,17 @@
       "off_rank": 203,
       "def_rating": -3.01,
       "def_rank": 183
+    },
+    {
+      "ovr_rank": 195,
+      "school": "Fredericktown",
+      "classification": 2,
+      "district": 1,
+      "ovr_rating": -6.68,
+      "off_rating": -2.72,
+      "off_rank": 189,
+      "def_rating": -3.97,
+      "def_rank": 204
     },
     {
       "ovr_rank": 196,
@@ -2380,17 +2380,6 @@
     },
     {
       "ovr_rank": 217,
-      "school": "Guadalupe Centers Charter",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -9.6,
-      "off_rating": -5.33,
-      "off_rank": 223,
-      "def_rating": -4.27,
-      "def_rank": 206
-    },
-    {
-      "ovr_rank": 218,
       "school": "Cardinal Ritter",
       "classification": 2,
       "district": 2,
@@ -2399,6 +2388,17 @@
       "off_rank": 224,
       "def_rating": -3.93,
       "def_rank": 202
+    },
+    {
+      "ovr_rank": 218,
+      "school": "Guadalupe Centers Charter",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -9.6,
+      "off_rating": -5.33,
+      "off_rank": 223,
+      "def_rating": -4.27,
+      "def_rank": 206
     },
     {
       "ovr_rank": 219,
