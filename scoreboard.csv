@@ -789,6 +789,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-13,Lone Jack,4,Warrensburg,1
 2026-04-13,Festus,3,Washington,1
 2026-04-13,Rolla,0,West Plains,3
+2026-04-13,Fort Osage,1,William Chrisman,1
 2026-04-14,Cassville,5,Aurora,1
 2026-04-14,Platte County,7,Belton,0
 2026-04-14,Grain Valley,1,Blue Springs,2
@@ -1198,6 +1199,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-24,Liberty,7,Central (St. Joseph),0
 2026-04-24,Bishop LeBlond,0,Clinton,5
 2026-04-24,Metro,6,Collegiate School of Med-Bio Science,0
+2026-04-24,Bayless,1,Crossroads College Preparatory,4
 2026-04-24,Southern Boone,8,Fulton,0
 2026-04-24,McKinley Classical Leadership,7,Gateway with Soldan International Studies,4
 2026-04-24,Pembroke Hill,1,Hannibal,0
@@ -1294,6 +1296,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-27,Lutheran St. Charles,1,Parkway South,3
 2026-04-27,Ewing Marion Kauffman with University Academy Charter,0,Van Horn,9
 2026-04-28,Monett,4,Aurora,0
+2026-04-28,Bolivar,1,Branson,2
 2026-04-28,Hancock,0,Brentwood,6
 2026-04-28,Blair Oaks,1,Camdenton,2
 2026-04-28,Neosho,2,Carthage,1
@@ -1308,6 +1311,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-28,Orchard Farm,0,Ft. Zumwalt North,3
 2026-04-28,North Point,1,Ft. Zumwalt South,2
 2026-04-28,Ft. Zumwalt East,0,Ft. Zumwalt West,0
+2026-04-28,Ozark,4,Glendale,0
 2026-04-28,Ewing Marion Kauffman with University Academy Charter,2,Guadalupe Centers Charter,1
 2026-04-28,Pleasant Hill,3,Harrisonville,0
 2026-04-28,Battle,0,Helias Catholic,12
@@ -1328,6 +1332,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-28,Lincoln College Prep,1,Mid-Buchanan,0
 2026-04-28,Hannibal,6,Moberly,0
 2026-04-28,Republic,0,Nixa,5
+2026-04-28,Ft. Zumwalt South,2,North Point,1
 2026-04-28,Fox,0,Northwest (Cedar Hill),1
 2026-04-28,Marshall,8,Odessa,0
 2026-04-28,Oak Park,0,Park Hill South,8
@@ -1347,12 +1352,16 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-28,Wright City,8,Valley Park,0
 2026-04-28,Winfield,5,Warrenton,1
 2026-04-29,Windsor (Imperial),8,Affton,0
+2026-04-29,Valley Park,1,Bayless,0
+2026-04-29,Warrensburg,0,Belton,1
 2026-04-29,Lafayette (St. Joseph),0,Benton,8
 2026-04-29,Bolivar,1,Branson,2
 2026-04-29,Savannah,6,Cameron,0
 2026-04-29,Hickman,0,Capital City,5
 2026-04-29,St. Clair,7,DeSoto,0
 2026-04-29,Mexico,0,Eugene,3
+2026-04-29,Seckman,5,Farmington,0
+2026-04-29,Battle,0,Father Tolton,8
 2026-04-29,St. Francis Borgia,3,Festus,1
 2026-04-29,Ozark,4,Glendale,0
 2026-04-29,Lindbergh,2,John Burroughs,1
@@ -1381,33 +1390,86 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Lee's Summit West,0,Blue Springs,2
 2026-04-30,Staley,0,Blue Springs South,5
 2026-04-30,Jackson,8,Central (Cape Girardeau),0
+2026-04-30,Hickman,4,Christian Fellowship Sr.,2
 2026-04-30,Bishop DuBourg,0,Collegiate School of Med-Bio Science,1
 2026-04-30,Lindbergh,2,Cor Jesu Academy,6
+2026-04-30,Aurora,1,Fair Grove,5
+2026-04-30,California,4,Fatima,2
+2026-04-30,Grain Valley,4,Fort Osage,3
+2026-04-30,Francis Howell North,1,Ft. Zumwalt South,2
+2026-04-30,Troy Buchanan,1,Ft. Zumwalt West,4
 2026-04-30,Osage,8,Fulton,2
+2026-04-30,Cardinal Ritter,9,Gateway with Soldan International Studies,1
+2026-04-30,Ruskin,1,Grandview,7
 2026-04-30,Mexico,0,Hannibal,8
 2026-04-30,University City,0,Hazelwood West,8
+2026-04-30,Springfield Catholic,0,Helias Catholic,1
 2026-04-30,Ft. Zumwalt East,2,Holt,0
+2026-04-30,Carthage,2,Joplin,0
 2026-04-30,Webster Groves,0,Kirkwood,2
+2026-04-30,Ewing Marion Kauffman with University Academy Charter,0,Knob Noster,4
+2026-04-30,Seckman,3,Ladue Horton Watkins,2
 2026-04-30,Raymore-Peculiar,2,Lee's Summit,4
+2026-04-30,Park Hill South,0,Liberty,1
+2026-04-30,North Point,1,Liberty (Wentzville),3
 2026-04-30,Lee's Summit North,0,Liberty North,2
+2026-04-30,Kearney,4,Lincoln College Prep,2
+2026-04-30,McDonald County,1,Marshfield,4
 2026-04-30,Lafayette (St. Joseph),0,Mid-Buchanan,8
 2026-04-30,Boonville,1,Moberly,3
 2026-04-30,Willard,3,Neosho,1
 2026-04-30,Eureka,0,Nerinx Hall,2
 2026-04-30,Carl Junction,4,New Covenant Academy,1
+2026-04-30,Fredericktown,0,North County,5
 2026-04-30,Poplar Bluff,0,Notre Dame (Cape Girardeau),3
+2026-04-30,Central (St. Joseph),4,Oak Park,0
+2026-04-30,Timberland,3,Orchard Farm,0
+2026-04-30,St. James,4,Owensville,1
+2026-04-30,Central (Springfield),0,Ozark,8
 2026-04-30,North Kansas City,1,Park Hill,2
+2026-04-30,Affton,0,Parkway North,8
 2026-04-30,Windsor (Imperial),3,Perryville,2
 2026-04-30,Kickapoo,3,Republic,0
 2026-04-30,Lafayette (Wildwood),0,Rockwood Summit,1
+2026-04-30,Marshall,2,Sacred Heart,3
 2026-04-30,Hillsboro,1,Sikeston,0
 2026-04-30,Pleasant Hill,2,Smith-Cotton,1
 2026-04-30,Stover with Cole Camp,1,Smithton,0
+2026-04-30,Laquey with Richland,0,Southern Boone,8
+2026-04-30,Francis Howell Central,1,St. Charles,0
 2026-04-30,Winfield,4,St. Charles West,1
 2026-04-30,Liberty (Mountain View),0,Sullivan,8
 2026-04-30,St. Michael the Archangel,3,Summit Christian Academy,0
+2026-04-30,Ft. Zumwalt West,4,Troy Buchanan,1
+2026-04-30,Raytown,0,Truman,9
 2026-04-30,Villa Duchesne,0,Visitation Academy,1
 2026-04-30,Warrenton,0,Washington,8
 2026-04-30,Parkview,0,Webb City,5
 2026-04-30,Logan-Rogersville,8,West Plains,0
+2026-04-30,Hazelwood East,0,Whitfield,8
+2026-04-30,Platte County,6,William Chrisman,2
 2026-04-30,Lone Jack,8,Winnetonka,0
+2026-05-01,Eugene,1,California,0
+2026-05-01,Warrensburg,3,Camdenton,0
+2026-05-01,Savannah,3,Chillicothe,2
+2026-05-01,East (Kansas City),0,Clinton,3
+2026-05-01,Nixa,1,Cor Jesu Academy,6
+2026-05-01,Marshfield,5,Dixon,0
+2026-05-01,West Plains,0,Hannibal,8
+2026-05-01,Farmington,0,Hillsboro,5
+2026-05-01,Osage,0,Jefferson City,2
+2026-05-01,Rolla,0,Kirksville,7
+2026-05-01,Hillcrest,2,Laquey with Richland,3
+2026-05-01,Bayless,0,Maplewood-Richmond Hts.,4
+2026-05-01,Pleasant Hill,4,Maryville,1
+2026-05-01,John Burroughs,2,MICDS,1
+2026-05-01,St. Joseph Christian,0,Mid-Buchanan,3
+2026-05-01,Carl Junction,6,New Heights Christian with McAuley Catholic,0
+2026-05-01,Jackson,3,Northwest (Cedar Hill),1
+2026-05-01,Sullivan,6,Owensville,0
+2026-05-01,Ozark,1,Rockwood Summit,3
+2026-05-01,Liberty (Mountain View),0,St. James,1
+2026-05-01,Perryville,1,St. Vincent,6
+2026-05-01,Brentwood,5,Valley Park,1
+2026-05-01,William Chrisman,2,Van Horn,3
+2026-05-01,Collegiate School of Med-Bio Science,0,Whitfield,4
