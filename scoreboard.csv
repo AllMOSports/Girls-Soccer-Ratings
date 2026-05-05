@@ -1254,14 +1254,16 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-25,Washington,8,Warrensburg,0
 2026-04-25,Notre Dame (Cape Girardeau),2,Webb City,0
 2026-04-27,Guadalupe Centers Charter,0,Barstow,8
+2026-04-27,Valley Park,1,Bayless,0
 2026-04-27,Raytown,2,Belton,3
 2026-04-27,Neosho,0,Carl Junction,2
 2026-04-27,Bishop LeBlond,4,Chillicothe,0
+2026-04-27,Festus,6,DeSoto,0
 2026-04-27,Grandview,0,Excelsior Springs,8
 2026-04-27,Lutheran (Kansas City),2,Faith Christian Academy,0
 2026-04-27,Central (Springfield),1,Hillcrest,0
 2026-04-27,Branson,2,Kickapoo,10
-2026-04-27,William Chrisman,7,Knob Noster,0
+2026-04-27,William Chrisman,6,Knob Noster,0
 2026-04-27,St. Teresa's Academy,1,Lee's Summit North,2
 2026-04-27,Blue Springs South,3,Liberty North,1
 2026-04-27,Joplin,1,Monett,3
@@ -1282,6 +1284,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-28,Marquette,0,Cor Jesu Academy,8
 2026-04-28,Paseo Academy,0,East (Kansas City),1
 2026-04-28,Mexico,0,Eugene,3
+2026-04-28,St. Francis Borgia,3,Festus,1
 2026-04-28,Troy Buchanan,0,Francis Howell Central,3
 2026-04-28,Liberty (Wentzville),1,Francis Howell North,1
 2026-04-28,Orchard Farm,0,Ft. Zumwalt North,3
@@ -1296,6 +1299,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-28,Winnetonka,0,Kearney,12
 2026-04-28,Waynesville,0,Kickapoo,3
 2026-04-28,Fulton,0,Kirksville,5
+2026-04-28,Raytown South,0,Knob Noster,1
 2026-04-28,Ladue Horton Watkins,1,Lafayette (Wildwood),4
 2026-04-28,Liberty North,1,Lee's Summit,2
 2026-04-28,Blue Springs,0,Lee's Summit North,6
@@ -1325,9 +1329,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-28,Notre Dame de Sion,2,St. Michael the Archangel,1
 2026-04-28,Lee's Summit West,0,Staley,1
 2026-04-28,Francis Howell,1,Timberland,0
+2026-04-28,Platte County,4,Truman,0
 2026-04-28,Wright City,8,Valley Park,0
 2026-04-28,Winfield,5,Warrenton,1
 2026-04-29,Windsor (Imperial),8,Affton,0
+2026-04-29,Monett,4,Aurora,0
 2026-04-29,Valley Park,1,Bayless,0
 2026-04-29,Warrensburg,0,Belton,1
 2026-04-29,Lafayette (St. Joseph),0,Benton,8
@@ -1373,6 +1379,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Aurora,1,Fair Grove,5
 2026-04-30,California,4,Fatima,2
 2026-04-30,Grain Valley,4,Fort Osage,3
+2026-04-30,Ft. Zumwalt North,0,Francis Howell,3
 2026-04-30,Francis Howell North,1,Ft. Zumwalt South,2
 2026-04-30,Troy Buchanan,1,Ft. Zumwalt West,4
 2026-04-30,Osage,8,Fulton,2
@@ -1406,6 +1413,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Central (Springfield),0,Ozark,8
 2026-04-30,North Kansas City,1,Park Hill,2
 2026-04-30,Affton,0,Parkway North,8
+2026-04-30,Mehlville,2,Pattonville,1
 2026-04-30,Windsor (Imperial),3,Perryville,2
 2026-04-30,Kickapoo,3,Republic,0
 2026-04-30,Lafayette (Wildwood),0,Rockwood Summit,1
@@ -1423,6 +1431,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Raytown,0,Truman,9
 2026-04-30,Villa Duchesne,0,Visitation Academy,1
 2026-04-30,Warrenton,0,Washington,8
+2026-04-30,Lebanon,0,Waynesville,4
 2026-04-30,Parkview,0,Webb City,5
 2026-04-30,Logan-Rogersville,8,West Plains,0
 2026-04-30,Hazelwood East,0,Whitfield,8
@@ -1434,6 +1443,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-01,East (Kansas City),0,Clinton,3
 2026-05-01,Nixa,1,Cor Jesu Academy,6
 2026-05-01,Marshfield,5,Dixon,0
+2026-05-01,Crocker,0,Father Tolton,5
+2026-05-01,North County,0,Festus,1
 2026-05-01,Ft. Zumwalt West,0,Ft. Zumwalt North,1
 2026-05-01,Winfield,5,Fulton,0
 2026-05-01,West Plains,0,Hannibal,8
@@ -1445,6 +1456,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-01,Pleasant Hill,4,Maryville,1
 2026-05-01,John Burroughs,2,MICDS,1
 2026-05-01,St. Joseph Christian,0,Mid-Buchanan,3
+2026-05-01,Bolivar,6,Monett,0
 2026-05-01,Carl Junction,6,New Heights Christian with McAuley Catholic,0
 2026-05-01,Jackson,3,Northwest (Cedar Hill),1
 2026-05-01,Barstow,2,Oak Grove,2
@@ -1457,11 +1469,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-01,Liberty (Mountain View),0,St. James,1
 2026-05-01,North Kansas City,0,St. Pius X (Kansas City),3
 2026-05-01,Perryville,1,St. Vincent,6
+2026-05-01,Lutheran St. Charles,2,Union,0
 2026-05-01,Brentwood,5,Valley Park,1
 2026-05-01,William Chrisman,2,Van Horn,3
 2026-05-01,Collegiate School of Med-Bio Science,0,Whitfield,4
 2026-05-02,Staley,2,Blue Springs,0
 2026-05-02,Kirksville,4,Camdenton,0
+2026-05-02,West Plains,1,Camdenton,3
+2026-05-02,Marquette,1,Eureka,0
 2026-05-02,Nixa,0,Francis Howell Central,3
 2026-05-02,Rolla,0,Hannibal,8
 2026-05-02,Warrensburg,0,Hannibal,6
@@ -1471,3 +1486,50 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,Lee's Summit,0,Lee's Summit West,1
 2026-05-02,Mehlville,3,Notre Dame (St. Louis),2
 2026-05-02,Warrensburg,1,Rolla,0
+2026-05-03,Staley,2,Blue Springs,0
+2026-05-03,Kirksville,4,Camdenton,0
+2026-05-03,West Plains,1,Camdenton,3
+2026-05-03,Marquette,1,Eureka,0
+2026-05-03,Nixa,0,Francis Howell Central,3
+2026-05-03,Rolla,0,Hannibal,8
+2026-05-03,Warrensburg,0,Hannibal,6
+2026-05-03,Ozark,2,Incarnate Word Academy,1
+2026-05-03,West Plains,0,Kirksville,6
+2026-05-03,Webster Groves,3,Ladue Horton Watkins,1
+2026-05-03,Lee's Summit,0,Lee's Summit West,1
+2026-05-03,Mehlville,3,Notre Dame (St. Louis),2
+2026-05-03,Warrensburg,1,Rolla,0
+2026-05-04,Bayless,0,Affton,4
+2026-05-04,Monett,1,Carthage,2
+2026-05-04,Marshfield,0,Cassville,1
+2026-05-04,Wright City,1,Christian Fellowship Sr.,2
+2026-05-04,Windsor (Imperial),5,Farmington,0
+2026-05-04,Stover with Cole Camp,6,Fatima,4
+2026-05-04,Northwest (Cedar Hill),1,Festus,0
+2026-05-04,Parkway West,8,Fox,0
+2026-05-04,Hannibal,8,Fulton,0
+2026-05-04,Liberty (Mountain View),0,Greenwood,2
+2026-05-04,Hazelwood West,8,Hazelwood East,0
+2026-05-04,Battle,0,Hickman,7
+2026-05-04,Rolla,0,Jefferson City,5
+2026-05-04,MICDS,5,Lutheran St. Charles,1
+2026-05-04,Moberly,1,Mexico,0
+2026-05-04,Savannah,1,Mid-Buchanan,0
+2026-05-04,Notre Dame (St. Louis),0,Nerinx Hall,8
+2026-05-04,Logan-Rogersville,7,New Covenant Academy,0
+2026-05-04,Capital City,8,Owensville,0
+2026-05-04,Duchesne,2,Parkway Central,3
+2026-05-04,Fox,0,Parkway West,8
+2026-05-04,Kearney,0,Pembroke Hill,2
+2026-05-04,Odessa,0,Pleasant Hill,9
+2026-05-04,Staley,2,Raymore-Peculiar,1
+2026-05-04,Lone Jack,5,Sacred Heart,0
+2026-05-04,Poplar Bluff,6,Sikeston,5
+2026-05-04,Rock Bridge,3,Smith-Cotton,2
+2026-05-04,Osage,0,Southern Boone,8
+2026-05-04,Glendale,2,Springfield Catholic,1
+2026-05-04,Incarnate Word Academy,0,St. Dominic,6
+2026-05-04,Villa Duchesne,1,St. Pius X (Festus),5
+2026-05-04,Elsberry with Silex,1,Veritas Christian Academy,5
+2026-05-04,Pacific,1,Washington,4
+2026-05-04,St. Joseph's Academy,7,Westminster Christian Academy,1
