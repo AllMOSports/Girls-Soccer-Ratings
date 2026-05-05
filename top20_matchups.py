@@ -166,12 +166,10 @@ def main():
         # Both teams must be ranked, in the same class, and in the top N
         if r1 is None or r2 is None:
             continue
-        if c1 != c2:
-            continue          # cross-class games are unusual but skip them
         if r1 > TOP_N or r2 > TOP_N:
             continue
  
-        top_matchups.append({**g, "rank1": r1, "rank2": r2, "class": c1})
+        top_matchups.append({**g, "rank1": r1, "rank2": r2, "class1": c1, "class2": c2})
  
     # 4. Build output
     lines = []
@@ -196,8 +194,8 @@ def main():
                 s2 = str(m["score2"]) if m["score2"] is not None else "—"
                 status = "✅ Final" if m["is_final"] else "🕐 Scheduled"
                 lines.append(
-                    f"| {i} | {m['team1']} | #{m['rank1']} | {s1} | {s2} "
-                    f"| #{m['rank2']} | {m['team2']} | {status} |"
+                    f"| {i} | {m['team1']} (C{m['class1']}) | #{m['rank1']} | {s1} | {s2} "
+                    f"| #{m['rank2']} | {m['team2']} (C{m['class2']}) | {status} |"
                 )
             lines.append("")
  
