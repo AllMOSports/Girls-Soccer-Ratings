@@ -1377,6 +1377,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Hickman,4,Christian Fellowship Sr.,2
 2026-04-30,Bishop DuBourg,0,Collegiate School of Med-Bio Science,1
 2026-04-30,Lindbergh,2,Cor Jesu Academy,6
+2026-04-30,Smithville,2,Excelsior Springs,1
 2026-04-30,Aurora,1,Fair Grove,5
 2026-04-30,California,4,Fatima,2
 2026-04-30,Grain Valley,4,Fort Osage,3
@@ -1477,6 +1478,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,Staley,2,Blue Springs,0
 2026-05-02,Kirksville,4,Camdenton,0
 2026-05-02,West Plains,1,Camdenton,3
+2026-05-02,Festus,6,DeSoto,0
 2026-05-02,Marquette,1,Eureka,0
 2026-05-02,Nixa,0,Francis Howell Central,3
 2026-05-02,Rolla,0,Hannibal,8
@@ -1490,6 +1492,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-03,Staley,2,Blue Springs,0
 2026-05-03,Kirksville,4,Camdenton,0
 2026-05-03,West Plains,1,Camdenton,3
+2026-05-03,Festus,6,DeSoto,0
 2026-05-03,Marquette,1,Eureka,0
 2026-05-03,Nixa,0,Francis Howell Central,3
 2026-05-03,Rolla,0,Hannibal,8
@@ -1541,6 +1544,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-04,North County,0,Saxony Lutheran,1
 2026-05-04,Poplar Bluff,6,Sikeston,5
 2026-05-04,Rock Bridge,3,Smith-Cotton,2
+2026-05-04,Platte County,1,Smithville,0
 2026-05-04,Osage,0,Southern Boone,8
 2026-05-04,Glendale,2,Springfield Catholic,1
 2026-05-04,Incarnate Word Academy,0,St. Dominic,6
@@ -1561,6 +1565,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-05,Aurora,2,Cassville,7
 2026-05-05,Harrisonville,8,Center,0
 2026-05-05,Nixa,8,Central (Springfield),0
+2026-05-05,Park Hill,8,Central (St. Joseph),0
 2026-05-05,Principia,2,Collegiate School of Med-Bio Science,1
 2026-05-05,Kearney,6,Excelsior Springs,1
 2026-05-05,Parkway South,4,Fox,1
@@ -1597,11 +1602,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-05,Notre Dame (St. Louis),1,Rockwood Summit,5
 2026-05-05,Fort Osage,9,Ruskin,0
 2026-05-05,Lafayette (St. Joseph),0,Savannah,10
+2026-05-05,Winnetonka,0,Smithville,8
 2026-05-05,Blair Oaks,5,St. James,0
 2026-05-05,Benton,2,St. Joseph Christian,0
+2026-05-05,Blue Springs,0,Staley,3
 2026-05-05,St. Charles,1,Troy Buchanan,3
 2026-05-05,Ozark,4,Webb City,0
 2026-05-05,Joplin,0,Willard,3
+2026-05-05,Raytown,0,William Chrisman,8
 2026-05-05,Washington,2,Winfield,1
 2026-05-05,Sullivan,1,Wright City,3
 2026-05-06,Pattonville,8,Affton,0
@@ -1629,40 +1637,86 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-06,Webb City,3,Willard,2
 2026-05-06,Washington,2,Winfield,1
 2026-05-06,St. Clair,1,Wright City,2
+2026-05-07,Greenwood,1,Aurora,2
 2026-05-07,Fatima,1,Battle,2
+2026-05-07,DeSoto,1,Bayless,0
+2026-05-07,Savannah,2,Bishop LeBlond,3
 2026-05-07,Blue Springs South,3,Blue Springs,0
 2026-05-07,Hillcrest,1,Camdenton,5
 2026-05-07,Fair Grove,0,Cassville,7
+2026-05-07,Park Hill South,3,Central (St. Joseph),0
 2026-05-07,Center,0,Clinton,8
 2026-05-07,Veritas Christian Academy,0,Collegiate School of Med-Bio Science,1
 2026-05-07,Nerinx Hall,0,Cor Jesu Academy,2
 2026-05-07,Maplewood-Richmond Hts.,9,Crossroads College Preparatory,1
 2026-05-07,Holt,0,Francis Howell Central,3
+2026-05-07,Ft. Zumwalt North,0,Francis Howell North,1
+2026-05-07,Saxony Lutheran,9,Fredericktown,1
 2026-05-07,Francis Howell North,1,Ft. Zumwalt North,0
 2026-05-07,Francis Howell,2,Ft. Zumwalt South,0
+2026-05-07,St. Charles,0,Ft. Zumwalt West,1
 2026-05-07,Father Tolton,2,Hickman,1
 2026-05-07,Perryville,0,Hillsboro,2
+2026-05-07,Parkview,2,Joplin,0
+2026-05-07,Grandview,0,Kearney,15
 2026-05-07,Warrensburg,3,Knob Noster,1
+2026-05-07,East (Kansas City),8,Lafayette (St. Joseph),0
 2026-05-07,Lee's Summit North,3,Lee's Summit,1
 2026-05-07,Staley,0,Liberty North,3
-2026-05-07,Kirkwood,3,Lindbergh,4
+2026-05-07,Kirkwood,1,Lindbergh,2
 2026-05-07,Villa Duchesne,3,Lutheran St. Charles,0
 2026-05-07,Hannibal,1,Marshall,6
+2026-05-07,Cameron,0,Maryville,8
 2026-05-07,Logan-Rogersville,10,McDonald County,1
 2026-05-07,Hazelwood West,0,Mehlville,8
 2026-05-07,Southern Boone,8,Mexico,1
 2026-05-07,Fulton,0,Moberly,5
+2026-05-07,Webb City,3,Neosho,0
+2026-05-07,Cor Jesu Academy,2,Nerinx Hall,0
 2026-05-07,Ozark,0,Nixa,4
+2026-05-07,Liberty,4,North Kansas City,2
 2026-05-07,Harrisonville,7,Oak Grove,0
+2026-05-07,North Point,2,Orchard Farm,0
+2026-05-07,Oak Park,0,Park Hill,8
+2026-05-07,University City,0,Parkway North,11
+2026-05-07,Marquette,3,Parkway West,2
 2026-05-07,Fort Osage,1,Platte County,4
 2026-05-07,Lee's Summit West,1,Raymore-Peculiar,3
+2026-05-07,Smithville,8,Raytown South,0
 2026-05-07,Willard,1,Republic,0
 2026-05-07,Affton,5,Ritenour,1
 2026-05-07,Ladue Horton Watkins,1,Rockwood Summit,0
 2026-05-07,Blair Oaks,4,Sacred Heart,0
+2026-05-07,Parkway Central,1,Seckman,0
+2026-05-07,Boonville,0,Smith-Cotton,8
 2026-05-07,Bolivar,0,Springfield Catholic,6
 2026-05-07,Sullivan,1,St. Francis Borgia,4
 2026-05-07,Hazelwood East,1,STEAM Academy,6
 2026-05-07,Eugene,1,Stover with Cole Camp,0
+2026-05-07,Liberty (Wentzville),1,Timberland,3
 2026-05-07,Ft. Zumwalt East,2,Troy Buchanan,0
+2026-05-07,William Chrisman,1,Truman,3
+2026-05-07,Oakville,2,Ursuline Academy,1
+2026-05-07,Central (Springfield),0,Waynesville,1
 2026-05-07,St. Vincent,6,Windsor (Imperial),0
+2026-05-07,Excelsior Springs,8,Winnetonka,0
+2026-05-08,Wright City,5,Battle,0
+2026-05-08,Mid-Buchanan,1,Benton,3
+2026-05-08,Lebanon,1,Carthage,2
+2026-05-08,Saxony Lutheran,3,Central (Cape Girardeau),2
+2026-05-08,St. Charles,0,Duchesne,1
+2026-05-08,St. Pius X (Festus),0,John Burroughs,3
+2026-05-08,Lutheran (Kansas City),1,Lafayette (St. Joseph),0
+2026-05-08,Francis Howell North,2,Lafayette (Wildwood),3
+2026-05-08,New Covenant Academy,7,Liberty (Mountain View),0
+2026-05-08,Hazelwood West,8,Lutheran North,2
+2026-05-08,Westminster Christian Academy,4,Lutheran South,0
+2026-05-08,Rockwood Summit,3,Oakville,0
+2026-05-08,Guadalupe Centers Charter,0,Odessa,7
+2026-05-08,Van Horn,1,Pembroke Hill,5
+2026-05-08,Capital City,8,Rolla,0
+2026-05-08,Festus,0,Sikeston,1
+2026-05-08,Visitation Academy,0,St. Dominic,5
+2026-05-08,Collegiate School of Med-Bio Science,6,University City,1
+2026-05-08,North County,0,Windsor (Imperial),3
+2026-05-08,Gateway Science Charter,0,Winfield,8
