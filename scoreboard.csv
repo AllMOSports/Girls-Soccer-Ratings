@@ -1417,6 +1417,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Affton,0,Parkway North,8
 2026-04-30,Mehlville,2,Pattonville,1
 2026-04-30,Windsor (Imperial),3,Perryville,2
+2026-04-30,Guadalupe Centers Charter,3,Raytown South,0
 2026-04-30,Kickapoo,3,Republic,0
 2026-04-30,Lafayette (Wildwood),0,Rockwood Summit,1
 2026-04-30,Marshall,2,Sacred Heart,3
@@ -1489,20 +1490,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,Lee's Summit,0,Lee's Summit West,1
 2026-05-02,Mehlville,3,Notre Dame (St. Louis),2
 2026-05-02,Warrensburg,1,Rolla,0
-2026-05-03,Staley,2,Blue Springs,0
-2026-05-03,Kirksville,4,Camdenton,0
-2026-05-03,West Plains,1,Camdenton,3
-2026-05-03,Festus,6,DeSoto,0
-2026-05-03,Marquette,1,Eureka,0
-2026-05-03,Nixa,0,Francis Howell Central,3
-2026-05-03,Rolla,0,Hannibal,8
-2026-05-03,Warrensburg,0,Hannibal,6
-2026-05-03,Ozark,2,Incarnate Word Academy,1
-2026-05-03,West Plains,0,Kirksville,6
-2026-05-03,Webster Groves,3,Ladue Horton Watkins,1
-2026-05-03,Lee's Summit,0,Lee's Summit West,1
-2026-05-03,Mehlville,3,Notre Dame (St. Louis),2
-2026-05-03,Warrensburg,1,Rolla,0
 2026-05-04,Bayless,0,Affton,4
 2026-05-04,Republic,5,Branson,1
 2026-05-04,Monett,1,Carthage,2
@@ -1652,6 +1639,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-07,Holt,0,Francis Howell Central,3
 2026-05-07,Ft. Zumwalt North,0,Francis Howell North,1
 2026-05-07,Saxony Lutheran,9,Fredericktown,1
+2026-05-07,Troy Buchanan,0,Ft. Zumwalt East,2
 2026-05-07,Francis Howell North,1,Ft. Zumwalt North,0
 2026-05-07,Francis Howell,2,Ft. Zumwalt South,0
 2026-05-07,St. Charles,0,Ft. Zumwalt West,1
@@ -1682,6 +1670,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-07,Marquette,3,Parkway West,2
 2026-05-07,Fort Osage,1,Platte County,4
 2026-05-07,Lee's Summit West,1,Raymore-Peculiar,3
+2026-05-07,Belton,2,Raytown,1
 2026-05-07,Smithville,8,Raytown South,0
 2026-05-07,Willard,1,Republic,0
 2026-05-07,Affton,5,Ritenour,1
@@ -1705,6 +1694,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-08,Lebanon,1,Carthage,2
 2026-05-08,Saxony Lutheran,3,Central (Cape Girardeau),2
 2026-05-08,St. Charles,0,Duchesne,1
+2026-05-08,Cristo Rey,0,Ewing Marion Kauffman with University Academy Charter,8
+2026-05-08,Camdenton,0,Helias Catholic,8
 2026-05-08,St. Pius X (Festus),0,John Burroughs,3
 2026-05-08,Glendale,3,Kickapoo,1
 2026-05-08,Lutheran (Kansas City),1,Lafayette (St. Joseph),0
@@ -1718,12 +1709,17 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-08,Van Horn,1,Pembroke Hill,5
 2026-05-08,Capital City,8,Rolla,0
 2026-05-08,Festus,0,Sikeston,1
+2026-05-08,Fulton,1,Smithton,1
 2026-05-08,MICDS,7,St. Charles West,1
 2026-05-08,Visitation Academy,0,St. Dominic,5
+2026-05-08,Warrensburg,1,St. Michael the Archangel,9
 2026-05-08,Collegiate School of Med-Bio Science,6,University City,1
+2026-05-08,Seckman,0,Webster Groves,1
 2026-05-08,North County,0,Windsor (Imperial),3
 2026-05-08,Gateway Science Charter,0,Winfield,8
 2026-05-09,Rockwood Summit,1,Eureka,0
+2026-05-09,Rolla,0,Hickman,5
+2026-05-09,Union,0,Hickman,4
 2026-05-09,Rolla,0,Northwest (Cedar Hill),5
 2026-05-09,Union,1,Northwest (Cedar Hill),6
 2026-05-09,Waynesville,2,Osage,1
