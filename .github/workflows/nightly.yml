@@ -2,7 +2,7 @@ name: Nightly Girls Soccer Ratings
 
 on:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '41 8 * * *'
   workflow_dispatch:
 
 permissions:
