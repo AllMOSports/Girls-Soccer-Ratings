@@ -1249,6 +1249,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-25,Francis Howell,3,Marquette,0
 2026-04-25,Fair Grove,0,Marshfield,3
 2026-04-25,Oak Park,0,North Kansas City,1
+2026-04-25,Bishop LeBlond,5,Odessa,0
 2026-04-25,Kearney,2,Platte County,1
 2026-04-25,Stover with Cole Camp,0,Sikeston,4
 2026-04-25,Lincoln College Prep,1,Smith-Cotton,2
@@ -1596,6 +1597,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-05,Benton,2,St. Joseph Christian,0
 2026-05-05,Blue Springs,0,Staley,3
 2026-05-05,St. Charles,1,Troy Buchanan,3
+2026-05-05,St. Charles West,3,Warrenton,0
 2026-05-05,Ozark,4,Webb City,0
 2026-05-05,Joplin,0,Willard,3
 2026-05-05,Raytown,0,William Chrisman,8
@@ -1671,6 +1673,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-07,University City,0,Parkway North,11
 2026-05-07,Eureka,4,Parkway South,1
 2026-05-07,Marquette,3,Parkway West,2
+2026-05-07,St. Joseph Christian,2,Paseo Academy,0
 2026-05-07,Fort Osage,1,Platte County,4
 2026-05-07,Lee's Summit West,1,Raymore-Peculiar,3
 2026-05-07,Belton,2,Raytown,1
@@ -1696,6 +1699,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-07,Excelsior Springs,8,Winnetonka,0
 2026-05-08,Wright City,5,Battle,0
 2026-05-08,Mid-Buchanan,1,Benton,3
+2026-05-08,Blair Oaks,3,California,0
 2026-05-08,Lebanon,1,Carthage,2
 2026-05-08,Saxony Lutheran,3,Central (Cape Girardeau),2
 2026-05-08,Marshfield,1,Crocker,3
@@ -1750,6 +1754,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-11,Joplin,2,Carl Junction,6
 2026-05-11,New Heights Christian with McAuley Catholic,2,Carthage,3
 2026-05-11,Oak Grove,6,Center,2
+2026-05-11,Kirksville,7,Chillicothe,0
 2026-05-11,Kirkwood,4,Clayton,0
 2026-05-11,Stover with Cole Camp,1,Crocker,2
 2026-05-11,Sullivan,13,Dixon,0
@@ -1765,6 +1770,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-11,Wright City,5,Hancock,0
 2026-05-11,West Plains,1,Hillcrest,3
 2026-05-11,Bayless,0,Hillsboro,4
+2026-05-11,Troy Buchanan,0,Lafayette (Wildwood),2
 2026-05-11,New Covenant Academy,8,Laquey with Richland,0
 2026-05-11,North Kansas City,1,Liberty,6
 2026-05-11,Harrisonville,5,Lone Jack,2
@@ -1777,6 +1783,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-11,Westminster Christian Academy,1,Orchard Farm,0
 2026-05-11,Ft. Zumwalt East,2,Parkway Central,0
 2026-05-11,Notre Dame (St. Louis),2,Parkway West,4
+2026-05-11,Lafayette (St. Joseph),0,Paseo Academy,3
 2026-05-11,Notre Dame de Sion,3,Pembroke Hill,0
 2026-05-11,Fredericktown,0,Poplar Bluff,8
 2026-05-11,Hazelwood West,8,Ritenour,0
@@ -1801,6 +1808,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-12,Eugene,1,Boonville,2
 2026-05-12,Hillcrest,1,Branson,3
 2026-05-12,Gateway with Soldan International Studies,0,Brentwood,11
+2026-05-12,Bishop LeBlond,8,Cameron,0
+2026-05-12,Father Tolton,3,Capital City,1
 2026-05-12,West Plains,0,Carl Junction,7
 2026-05-12,Willard,4,Carthage,0
 2026-05-12,Notre Dame (Cape Girardeau),4,Central (Cape Girardeau),0
@@ -1818,6 +1827,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-12,MICDS,2,Ladue Horton Watkins,3
 2026-05-12,Glendale,8,Lebanon,0
 2026-05-12,Blue Springs South,2,Lee's Summit North,1
+2026-05-12,Central (St. Joseph),1,Liberty,4
 2026-05-12,Dixon,0,Liberty (Mountain View),8
 2026-05-12,Blue Springs,2,Liberty North,4
 2026-05-12,Fulton,0,Marshall,11
@@ -1829,13 +1839,17 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-12,St. James,0,Osage,0
 2026-05-12,Waynesville,0,Ozark,6
 2026-05-12,Park Hill,1,Park Hill South,0
+2026-05-12,Marquette,2,Parkway South,1
 2026-05-12,Webster Groves,4,Parkway West,1
+2026-05-12,Lafayette (St. Joseph),0,Paseo Academy,3
 2026-05-12,Parkway North,2,Pattonville,3
 2026-05-12,Lincoln College Prep,1,Pembroke Hill,2
 2026-05-12,Saxony Lutheran,0,Perryville,7
+2026-05-12,Platte County,14,Ruskin,0
 2026-05-12,Maryville,3,Savannah,1
 2026-05-12,Warrenton,0,Southern Boone,7
 2026-05-12,Pacific,2,St. Charles West,1
+2026-05-12,Incarnate Word Academy,0,St. Joseph's Academy,5
 2026-05-12,St. Michael the Archangel,4,St. Teresa's Academy,0
 2026-05-12,Poplar Bluff,2,St. Vincent,7
 2026-05-12,Lee's Summit,0,Staley,1
@@ -1849,3 +1863,24 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-12,St. Charles,5,Washington,1
 2026-05-12,Joplin,0,Webb City,7
 2026-05-12,Festus,2,Windsor (Imperial),0
+2026-05-13,Marshfield,0,Camdenton,3
+2026-05-13,Fox,1,Clayton,3
+2026-05-13,Orchard Farm,1,Francis Howell North,3
+2026-05-13,Seckman,0,Ft. Zumwalt East,2
+2026-05-13,Wright City,6,Hazelwood East,0
+2026-05-13,Timberland,5,Holt,1
+2026-05-13,Metro,0,John Burroughs,2
+2026-05-13,Raytown South,0,Kearney,17
+2026-05-13,Benton,2,Lafayette (St. Joseph),0
+2026-05-13,Parkway South,1,Lindbergh,0
+2026-05-13,MICDS,5,Lutheran South,0
+2026-05-13,Affton,0,Mehlville,7
+2026-05-13,Canton,2,Mexico,3
+2026-05-13,Cor Jesu Academy,7,Notre Dame (St. Louis),0
+2026-05-13,Lafayette (Wildwood),1,Oakville,2
+2026-05-13,Van Horn,8,Odessa,2
+2026-05-13,Lutheran St. Charles,0,Pacific,6
+2026-05-13,Veritas Christian Academy,1,Principia,4
+2026-05-13,Liberty North,6,Raymore-Peculiar,0
+2026-05-13,Grandview,0,Smithville,8
+2026-05-13,Villa Duchesne,1,St. Francis Borgia,2
