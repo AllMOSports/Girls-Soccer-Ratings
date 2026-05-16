@@ -1,65 +1,65 @@
 Team,OVR Rating,OFF Rating,DEF Rating
-Ft. Zumwalt South,8.18,3.74,4.44
-Rockwood Summit,6.51,2.64,3.86
-St. Michael the Archangel,6.11,3.04,3.07
-St. Pius X (Kansas City),5.94,3.04,2.90
-Webster Groves,5.92,2.42,3.50
-Ft. Zumwalt East,5.71,1.93,3.79
-Notre Dame de Sion,5.09,2.43,2.66
-John Burroughs,4.83,2.02,2.81
-Kearney,4.78,4.00,0.78
-MICDS,4.71,2.67,2.05
-Helias Catholic,4.56,2.39,2.17
-Mehlville,3.45,1.55,1.91
-Summit Christian Academy,3.33,1.18,2.15
-St. Charles,3.21,1.08,2.13
-Parkway North,3.03,2.62,0.42
-Notre Dame (St. Louis),2.44,1.25,1.19
-Marshall,2.43,1.59,0.83
-Windsor (Imperial),2.34,0.71,1.63
-Washington,2.34,1.42,0.92
-Parkway Central,2.32,1.15,1.17
-Lincoln College Prep,2.27,0.77,1.50
-Holt,2.16,0.87,1.29
-Smithville,2.14,0.75,1.39
-Hannibal,2.00,1.51,0.49
-Villa Duchesne,1.91,0.71,1.20
-Pacific,1.88,0.49,1.39
-Capital City,1.80,1.18,0.62
-Platte County,1.62,0.99,0.62
-Festus,1.50,0.00,1.50
-Poplar Bluff,0.67,1.04,-0.36
-Hillsboro,0.59,-0.27,0.87
-Webb City,0.31,0.48,-0.17
-Sikeston,0.17,-0.08,0.26
-Willard,0.06,-0.56,0.62
-Jefferson City,0.04,-0.58,0.62
-Van Horn,-0.00,1.50,-1.50
-Bolivar,-0.43,-0.38,-0.06
-Lutheran St. Charles,-0.45,0.37,-0.82
-Carl Junction,-0.45,-0.41,-0.04
-Union,-0.73,-1.10,0.37
-Whitfield,-1.40,-0.48,-0.92
-William Chrisman,-1.58,0.02,-1.60
-Central (Cape Girardeau),-2.21,-0.86,-1.35
-Camdenton,-2.97,-1.56,-1.41
-Central (Springfield),-3.00,-1.92,-1.08
-Warrenton,-3.46,-1.42,-2.05
-Hillcrest,-3.68,-1.73,-1.95
-Warrensburg,-4.15,-1.63,-2.52
-Lebanon,-4.67,-2.80,-1.87
-Marshfield,-4.86,-3.36,-1.50
-Belton,-4.88,-2.35,-2.54
-Parkview,-5.01,-3.11,-1.90
-West Plains,-5.07,-2.35,-2.71
-DeSoto,-5.07,-2.06,-3.01
-East (Kansas City),-5.69,-3.33,-2.36
-University City,-6.51,-2.68,-3.82
-Grandview,-6.77,-2.62,-4.15
-McDonald County,-8.03,-3.32,-4.71
-Winnetonka,-8.23,-3.14,-5.09
-Hazelwood East,-8.34,-3.34,-5.00
-Raytown,-8.62,-3.64,-4.97
-Raytown South,-9.09,-4.06,-5.04
-Ruskin,-10.28,-3.77,-6.51
-Gateway with Soldan International Studies,-10.75,-3.01,-7.74
+Ft. Zumwalt South,8.25,3.78,4.47
+Rockwood Summit,6.57,2.67,3.89
+St. Michael the Archangel,6.08,3.02,3.06
+Webster Groves,6.00,2.45,3.54
+St. Pius X (Kansas City),5.87,3.00,2.87
+Ft. Zumwalt East,5.78,1.96,3.82
+Notre Dame de Sion,5.03,2.40,2.63
+John Burroughs,4.90,2.05,2.85
+MICDS,4.79,2.70,2.08
+Kearney,4.67,3.97,0.70
+Helias Catholic,4.67,2.45,2.22
+Mehlville,3.52,1.58,1.94
+St. Charles,3.29,1.12,2.17
+Summit Christian Academy,3.26,1.14,2.12
+Parkway North,3.11,2.65,0.45
+Notre Dame (St. Louis),2.50,1.28,1.23
+Marshall,2.48,1.62,0.86
+Parkway Central,2.40,1.19,1.22
+Washington,2.40,1.45,0.95
+Windsor (Imperial),2.36,0.79,1.56
+Holt,2.23,0.91,1.32
+Lincoln College Prep,2.20,0.73,1.47
+Smithville,2.06,0.73,1.33
+Hannibal,2.05,1.54,0.51
+Villa Duchesne,1.96,0.74,1.23
+Pacific,1.95,0.52,1.42
+Capital City,1.91,1.24,0.67
+Festus,1.53,0.02,1.51
+Platte County,1.49,0.92,0.56
+Hillsboro,0.64,-0.25,0.89
+Webb City,0.36,0.50,-0.15
+Poplar Bluff,0.27,0.88,-0.61
+Sikeston,0.17,-0.08,0.25
+Jefferson City,0.16,-0.51,0.67
+Willard,0.10,-0.54,0.64
+Van Horn,-0.06,1.47,-1.53
+Lutheran St. Charles,-0.38,0.40,-0.78
+Bolivar,-0.40,-0.36,-0.04
+Carl Junction,-0.42,-0.39,-0.03
+Union,-0.64,-1.05,0.42
+Whitfield,-1.33,-0.44,-0.89
+William Chrisman,-1.69,-0.03,-1.66
+Central (Cape Girardeau),-2.22,-0.87,-1.35
+Camdenton,-2.86,-1.50,-1.36
+Central (Springfield),-2.94,-1.89,-1.04
+Warrenton,-3.38,-1.37,-2.00
+Hillcrest,-3.64,-1.71,-1.93
+Warrensburg,-4.18,-1.65,-2.53
+Lebanon,-4.57,-2.74,-1.82
+Marshfield,-4.82,-3.34,-1.48
+Parkview,-4.84,-3.03,-1.81
+Belton,-5.00,-2.41,-2.59
+DeSoto,-5.03,-2.06,-2.97
+West Plains,-5.04,-2.34,-2.69
+East (Kansas City),-5.73,-3.34,-2.39
+University City,-6.43,-2.64,-3.79
+Grandview,-6.81,-2.73,-4.08
+McDonald County,-8.09,-3.35,-4.73
+Hazelwood East,-8.25,-3.30,-4.96
+Winnetonka,-8.30,-3.25,-5.05
+Raytown,-8.73,-3.69,-5.04
+Raytown South,-9.19,-4.25,-4.94
+Ruskin,-10.40,-3.81,-6.59
+Gateway with Soldan International Studies,-10.67,-2.98,-7.70
