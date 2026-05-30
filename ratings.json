@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 29, 2026 at 06:55 AM",
+  "last_updated": "May 30, 2026 at 05:28 AM",
   "league_average": 2.43,
   "teams": [
     {
@@ -37,17 +37,6 @@
     },
     {
       "ovr_rank": 4,
-      "school": "St. Dominic",
-      "classification": 4,
-      "district": 3,
-      "ovr_rating": 7.81,
-      "off_rating": 3.58,
-      "off_rank": 7,
-      "def_rating": 4.23,
-      "def_rank": 4
-    },
-    {
-      "ovr_rank": 5,
       "school": "St. Joseph's Academy",
       "classification": 4,
       "district": 2,
@@ -56,6 +45,17 @@
       "off_rank": 4,
       "def_rating": 4.01,
       "def_rank": 6
+    },
+    {
+      "ovr_rank": 5,
+      "school": "St. Dominic",
+      "classification": 4,
+      "district": 3,
+      "ovr_rating": 7.81,
+      "off_rating": 3.58,
+      "off_rank": 7,
+      "def_rating": 4.23,
+      "def_rank": 4
     },
     {
       "ovr_rank": 6,
@@ -565,17 +565,6 @@
     },
     {
       "ovr_rank": 52,
-      "school": "Notre Dame de Sion",
-      "classification": 3,
-      "district": 7,
-      "ovr_rating": 3.88,
-      "off_rating": 1.96,
-      "off_rank": 50,
-      "def_rating": 1.92,
-      "def_rank": 56
-    },
-    {
-      "ovr_rank": 53,
       "school": "Kickapoo",
       "classification": 4,
       "district": 5,
@@ -584,6 +573,17 @@
       "off_rank": 46,
       "def_rating": 1.79,
       "def_rank": 60
+    },
+    {
+      "ovr_rank": 53,
+      "school": "Notre Dame de Sion",
+      "classification": 3,
+      "district": 7,
+      "ovr_rating": 3.88,
+      "off_rating": 1.96,
+      "off_rank": 50,
+      "def_rating": 1.92,
+      "def_rank": 56
     },
     {
       "ovr_rank": 54,
@@ -818,17 +818,6 @@
     },
     {
       "ovr_rank": 75,
-      "school": "Smithville",
-      "classification": 3,
-      "district": 8,
-      "ovr_rating": 2.26,
-      "off_rating": 0.79,
-      "off_rank": 88,
-      "def_rating": 1.47,
-      "def_rank": 70
-    },
-    {
-      "ovr_rank": 76,
       "school": "Windsor (Imperial)",
       "classification": 3,
       "district": 1,
@@ -837,6 +826,17 @@
       "off_rank": 89,
       "def_rating": 1.48,
       "def_rank": 69
+    },
+    {
+      "ovr_rank": 76,
+      "school": "Smithville",
+      "classification": 3,
+      "district": 8,
+      "ovr_rating": 2.26,
+      "off_rating": 0.79,
+      "off_rank": 88,
+      "def_rating": 1.47,
+      "def_rank": 70
     },
     {
       "ovr_rank": 77,
@@ -950,17 +950,6 @@
     },
     {
       "ovr_rank": 87,
-      "school": "Hannibal",
-      "classification": 3,
-      "district": 4,
-      "ovr_rating": 1.76,
-      "off_rating": 1.21,
-      "off_rank": 69,
-      "def_rating": 0.55,
-      "def_rank": 99
-    },
-    {
-      "ovr_rank": 88,
       "school": "Holt",
       "classification": 3,
       "district": 4,
@@ -969,6 +958,17 @@
       "off_rank": 96,
       "def_rating": 1.12,
       "def_rank": 78
+    },
+    {
+      "ovr_rank": 88,
+      "school": "Hannibal",
+      "classification": 3,
+      "district": 4,
+      "ovr_rating": 1.76,
+      "off_rating": 1.21,
+      "off_rank": 69,
+      "def_rating": 0.55,
+      "def_rank": 99
     },
     {
       "ovr_rank": 89,
@@ -1082,17 +1082,6 @@
     },
     {
       "ovr_rank": 99,
-      "school": "Father Tolton",
-      "classification": 2,
-      "district": 6,
-      "ovr_rating": 0.74,
-      "off_rating": 0.0,
-      "off_rank": 113,
-      "def_rating": 0.74,
-      "def_rank": 93
-    },
-    {
-      "ovr_rank": 100,
       "school": "Kirksville",
       "classification": 2,
       "district": 6,
@@ -1101,6 +1090,17 @@
       "off_rank": 116,
       "def_rating": 0.84,
       "def_rank": 86
+    },
+    {
+      "ovr_rank": 100,
+      "school": "Father Tolton",
+      "classification": 2,
+      "district": 6,
+      "ovr_rating": 0.74,
+      "off_rating": 0.0,
+      "off_rank": 113,
+      "def_rating": 0.74,
+      "def_rank": 93
     },
     {
       "ovr_rank": 101,
@@ -1555,17 +1555,6 @@
     },
     {
       "ovr_rank": 142,
-      "school": "Eugene",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -2.0,
-      "off_rating": -1.16,
-      "off_rank": 146,
-      "def_rating": -0.84,
-      "def_rank": 135
-    },
-    {
-      "ovr_rank": 143,
       "school": "Maplewood-Richmond Hts.",
       "classification": 2,
       "district": 2,
@@ -1574,6 +1563,17 @@
       "off_rank": 132,
       "def_rating": -1.32,
       "def_rank": 148
+    },
+    {
+      "ovr_rank": 143,
+      "school": "Eugene",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -2.0,
+      "off_rating": -1.16,
+      "off_rank": 146,
+      "def_rating": -0.84,
+      "def_rank": 135
     },
     {
       "ovr_rank": 144,
@@ -1676,17 +1676,6 @@
     },
     {
       "ovr_rank": 153,
-      "school": "Cassville",
-      "classification": 2,
-      "district": 5,
-      "ovr_rating": -2.86,
-      "off_rating": -1.92,
-      "off_rank": 164,
-      "def_rating": -0.95,
-      "def_rank": 136
-    },
-    {
-      "ovr_rank": 154,
       "school": "Camdenton",
       "classification": 3,
       "district": 5,
@@ -1695,6 +1684,17 @@
       "off_rank": 153,
       "def_rating": -1.38,
       "def_rank": 151
+    },
+    {
+      "ovr_rank": 154,
+      "school": "Cassville",
+      "classification": 2,
+      "district": 5,
+      "ovr_rating": -2.86,
+      "off_rating": -1.92,
+      "off_rank": 164,
+      "def_rating": -0.95,
+      "def_rank": 136
     },
     {
       "ovr_rank": 155,
@@ -1863,17 +1863,6 @@
     },
     {
       "ovr_rank": 170,
-      "school": "California",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -4.66,
-      "off_rating": -3.18,
-      "off_rank": 200,
-      "def_rating": -1.48,
-      "def_rank": 153
-    },
-    {
-      "ovr_rank": 171,
       "school": "Bishop DuBourg",
       "classification": 1,
       "district": 1,
@@ -1882,6 +1871,17 @@
       "off_rank": 159,
       "def_rating": -2.96,
       "def_rank": 188
+    },
+    {
+      "ovr_rank": 171,
+      "school": "California",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -4.66,
+      "off_rating": -3.18,
+      "off_rank": 200,
+      "def_rating": -1.48,
+      "def_rank": 153
     },
     {
       "ovr_rank": 172,
@@ -2149,17 +2149,6 @@
     },
     {
       "ovr_rank": 196,
-      "school": "University City",
-      "classification": 3,
-      "district": 2,
-      "ovr_rating": -6.54,
-      "off_rating": -2.44,
-      "off_rank": 178,
-      "def_rating": -4.09,
-      "def_rank": 206
-    },
-    {
-      "ovr_rank": 197,
       "school": "Knob Noster",
       "classification": 2,
       "district": 6,
@@ -2170,7 +2159,7 @@
       "def_rank": 191
     },
     {
-      "ovr_rank": 198,
+      "ovr_rank": 197,
       "school": "Hancock",
       "classification": 1,
       "district": 1,
@@ -2179,6 +2168,17 @@
       "off_rank": 204,
       "def_rating": -3.26,
       "def_rank": 194
+    },
+    {
+      "ovr_rank": 198,
+      "school": "University City",
+      "classification": 3,
+      "district": 2,
+      "ovr_rating": -6.54,
+      "off_rating": -2.44,
+      "off_rank": 178,
+      "def_rating": -4.09,
+      "def_rank": 206
     },
     {
       "ovr_rank": 199,
@@ -2325,17 +2325,6 @@
     },
     {
       "ovr_rank": 212,
-      "school": "McDonald County",
-      "classification": 3,
-      "district": 6,
-      "ovr_rating": -8.15,
-      "off_rating": -3.33,
-      "off_rank": 205,
-      "def_rating": -4.82,
-      "def_rank": 214
-    },
-    {
-      "ovr_rank": 213,
       "school": "Faith Christian Academy",
       "classification": 1,
       "district": 4,
@@ -2344,6 +2333,17 @@
       "off_rank": 219,
       "def_rating": -3.92,
       "def_rank": 203
+    },
+    {
+      "ovr_rank": 213,
+      "school": "McDonald County",
+      "classification": 3,
+      "district": 6,
+      "ovr_rating": -8.15,
+      "off_rating": -3.33,
+      "off_rank": 205,
+      "def_rating": -4.82,
+      "def_rank": 214
     },
     {
       "ovr_rank": 214,

@@ -2,8 +2,8 @@ Team,OVR Rating,OFF Rating,DEF Rating
 Cor Jesu Academy,10.52,6.29,4.23
 Nerinx Hall,8.51,3.72,4.78
 Ft. Zumwalt South,7.82,3.75,4.08
-St. Dominic,7.81,3.58,4.23
 St. Joseph's Academy,7.81,3.81,4.01
+St. Dominic,7.81,3.58,4.23
 Francis Howell,7.55,3.27,4.29
 Timberland,6.65,2.74,3.91
 Kirkwood,6.48,3.04,3.44
@@ -50,8 +50,8 @@ Troy Buchanan,4.09,1.78,2.31
 Pleasant Hill,4.04,2.40,1.63
 Ozark,3.98,1.71,2.26
 Rock Bridge,3.96,1.91,2.05
-Notre Dame de Sion,3.88,1.96,1.92
 Kickapoo,3.88,2.08,1.79
+Notre Dame de Sion,3.88,1.96,1.92
 Glendale,3.82,2.14,1.68
 Lee's Summit West,3.80,1.04,2.76
 Clayton,3.77,1.67,2.10
@@ -73,8 +73,8 @@ Northwest (Cedar Hill),2.56,0.94,1.62
 Visitation Academy,2.41,0.73,1.68
 Washington,2.34,1.24,1.10
 Notre Dame (St. Louis),2.29,1.15,1.14
-Smithville,2.26,0.79,1.47
 Windsor (Imperial),2.26,0.78,1.48
+Smithville,2.26,0.79,1.47
 Capital City,2.20,1.40,0.80
 Parkway Central,2.18,1.08,1.10
 Marshall,2.16,1.43,0.74
@@ -85,8 +85,8 @@ Notre Dame (Cape Girardeau),1.86,0.68,1.18
 Platte County,1.86,0.94,0.92
 North Kansas City,1.83,0.70,1.13
 Grain Valley,1.78,0.84,0.94
-Hannibal,1.76,1.21,0.55
 Holt,1.76,0.64,1.12
+Hannibal,1.76,1.21,0.55
 Republic,1.75,1.08,0.68
 Perryville,1.73,1.43,0.30
 Festus,1.70,0.10,1.61
@@ -97,8 +97,8 @@ Metro,1.25,0.59,0.66
 Raymore-Peculiar,1.20,1.06,0.14
 Maryville,1.09,0.54,0.55
 Winfield,0.93,0.16,0.77
-Father Tolton,0.74,0.00,0.74
 Kirksville,0.74,-0.09,0.84
+Father Tolton,0.74,0.00,0.74
 Hillsboro,0.63,-0.33,0.97
 Sullivan,0.58,0.93,-0.35
 Clinton,0.57,0.52,0.05
@@ -140,8 +140,8 @@ Principia,-1.76,-0.73,-1.03
 Bishop LeBlond,-1.78,-0.65,-1.13
 North County,-1.83,-1.14,-0.69
 Central (Cape Girardeau),-1.94,-0.84,-1.10
-Eugene,-2.00,-1.16,-0.84
 Maplewood-Richmond Hts.,-2.00,-0.68,-1.32
+Eugene,-2.00,-1.16,-0.84
 Saxony Lutheran,-2.08,-0.88,-1.19
 Elsberry with Silex,-2.22,-1.45,-0.77
 Branson,-2.49,-0.82,-1.67
@@ -151,8 +151,8 @@ Oak Grove,-2.58,-1.24,-1.34
 Osage,-2.68,-1.18,-1.50
 Carthage,-2.76,-1.53,-1.23
 Boonville,-2.82,-2.09,-0.73
-Cassville,-2.86,-1.92,-0.95
 Camdenton,-2.86,-1.47,-1.38
+Cassville,-2.86,-1.92,-0.95
 Central (Springfield),-2.97,-1.92,-1.04
 Collegiate School of Med-Bio Science,-3.03,-1.88,-1.15
 Affton,-3.28,-0.93,-2.35
@@ -168,8 +168,8 @@ Smithton,-4.12,-2.10,-2.03
 St. James,-4.15,-2.72,-1.43
 Warrensburg,-4.19,-1.71,-2.48
 Lebanon,-4.48,-2.67,-1.80
-California,-4.66,-3.18,-1.48
 Bishop DuBourg,-4.66,-1.70,-2.96
+California,-4.66,-3.18,-1.48
 Belton,-4.72,-2.27,-2.45
 Monett,-4.75,-2.50,-2.24
 Parkview,-4.80,-2.92,-1.88
@@ -194,9 +194,9 @@ Fulton,-6.13,-2.15,-3.98
 Liberty (Mountain View),-6.24,-3.38,-2.86
 Fair Grove,-6.26,-2.80,-3.46
 Lutheran North,-6.42,-2.87,-3.56
-University City,-6.54,-2.44,-4.09
 Knob Noster,-6.54,-3.49,-3.05
 Hancock,-6.54,-3.28,-3.26
+University City,-6.54,-2.44,-4.09
 Grandview,-6.57,-2.68,-3.89
 Cameron,-6.68,-3.04,-3.64
 Cardinal Ritter,-6.84,-3.10,-3.74
@@ -210,8 +210,8 @@ Center,-7.33,-3.18,-4.14
 Winnetonka,-7.81,-3.05,-4.76
 Aurora,-7.92,-3.74,-4.18
 Ewing Marion Kauffman with University Academy Charter,-8.12,-3.57,-4.55
-McDonald County,-8.15,-3.33,-4.82
 Faith Christian Academy,-8.15,-4.23,-3.92
+McDonald County,-8.15,-3.33,-4.82
 Raytown,-8.44,-3.43,-5.01
 Fatima,-8.60,-3.19,-5.41
 Raytown South,-8.84,-3.99,-4.85

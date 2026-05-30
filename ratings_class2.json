@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 29, 2026 at 06:55 AM",
+  "last_updated": "May 30, 2026 at 05:28 AM",
   "league_average": 2.43,
   "classification": 2,
   "teams": [
@@ -192,17 +192,6 @@
     },
     {
       "ovr_rank": 18,
-      "school": "Father Tolton",
-      "classification": 2,
-      "district": 6,
-      "ovr_rating": 0.74,
-      "off_rating": 0.0,
-      "off_rank": 21,
-      "def_rating": 0.74,
-      "def_rank": 13
-    },
-    {
-      "ovr_rank": 19,
       "school": "Kirksville",
       "classification": 2,
       "district": 6,
@@ -211,6 +200,17 @@
       "off_rank": 23,
       "def_rating": 0.84,
       "def_rank": 11
+    },
+    {
+      "ovr_rank": 19,
+      "school": "Father Tolton",
+      "classification": 2,
+      "district": 6,
+      "ovr_rating": 0.74,
+      "off_rating": 0.0,
+      "off_rank": 21,
+      "def_rating": 0.74,
+      "def_rank": 13
     },
     {
       "ovr_rank": 20,

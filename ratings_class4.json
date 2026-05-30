@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 29, 2026 at 06:55 AM",
+  "last_updated": "May 30, 2026 at 05:28 AM",
   "league_average": 2.43,
   "classification": 4,
   "teams": [
@@ -27,17 +27,6 @@
     },
     {
       "ovr_rank": 3,
-      "school": "St. Dominic",
-      "classification": 4,
-      "district": 3,
-      "ovr_rating": 7.81,
-      "off_rating": 3.58,
-      "off_rank": 4,
-      "def_rating": 4.23,
-      "def_rank": 4
-    },
-    {
-      "ovr_rank": 4,
       "school": "St. Joseph's Academy",
       "classification": 4,
       "district": 2,
@@ -46,6 +35,17 @@
       "off_rank": 2,
       "def_rating": 4.01,
       "def_rank": 5
+    },
+    {
+      "ovr_rank": 4,
+      "school": "St. Dominic",
+      "classification": 4,
+      "district": 3,
+      "ovr_rating": 7.81,
+      "off_rating": 3.58,
+      "off_rank": 4,
+      "def_rating": 4.23,
+      "def_rank": 4
     },
     {
       "ovr_rank": 5,
