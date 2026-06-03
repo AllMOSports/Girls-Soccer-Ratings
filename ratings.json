@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 02, 2026 at 07:29 AM",
+  "last_updated": "June 03, 2026 at 08:02 AM",
   "league_average": 2.43,
   "teams": [
     {
@@ -114,17 +114,6 @@
     },
     {
       "ovr_rank": 11,
-      "school": "Francis Howell North",
-      "classification": 4,
-      "district": 2,
-      "ovr_rating": 6.31,
-      "off_rating": 2.54,
-      "off_rank": 24,
-      "def_rating": 3.76,
-      "def_rank": 9
-    },
-    {
-      "ovr_rank": 12,
       "school": "Liberty (Wentzville)",
       "classification": 4,
       "district": 3,
@@ -133,6 +122,17 @@
       "off_rank": 21,
       "def_rating": 3.68,
       "def_rank": 11
+    },
+    {
+      "ovr_rank": 12,
+      "school": "Francis Howell North",
+      "classification": 4,
+      "district": 2,
+      "ovr_rating": 6.31,
+      "off_rating": 2.54,
+      "off_rank": 24,
+      "def_rating": 3.76,
+      "def_rank": 9
     },
     {
       "ovr_rank": 13,
@@ -169,17 +169,6 @@
     },
     {
       "ovr_rank": 16,
-      "school": "Jackson",
-      "classification": 4,
-      "district": 1,
-      "ovr_rating": 6.0,
-      "off_rating": 3.33,
-      "off_rank": 8,
-      "def_rating": 2.67,
-      "def_rank": 38
-    },
-    {
-      "ovr_rank": 17,
       "school": "Nixa",
       "classification": 4,
       "district": 5,
@@ -188,6 +177,17 @@
       "off_rank": 11,
       "def_rating": 2.92,
       "def_rank": 27
+    },
+    {
+      "ovr_rank": 17,
+      "school": "Jackson",
+      "classification": 4,
+      "district": 1,
+      "ovr_rating": 6.0,
+      "off_rating": 3.33,
+      "off_rank": 8,
+      "def_rating": 2.67,
+      "def_rank": 38
     },
     {
       "ovr_rank": 18,
@@ -213,17 +213,6 @@
     },
     {
       "ovr_rank": 20,
-      "school": "Ursuline Academy",
-      "classification": 4,
-      "district": 2,
-      "ovr_rating": 5.88,
-      "off_rating": 2.31,
-      "off_rank": 34,
-      "def_rating": 3.57,
-      "def_rank": 14
-    },
-    {
-      "ovr_rank": 21,
       "school": "Liberty North",
       "classification": 4,
       "district": 8,
@@ -232,6 +221,17 @@
       "off_rank": 14,
       "def_rating": 2.89,
       "def_rank": 28
+    },
+    {
+      "ovr_rank": 21,
+      "school": "Ursuline Academy",
+      "classification": 4,
+      "district": 2,
+      "ovr_rating": 5.88,
+      "off_rating": 2.31,
+      "off_rank": 34,
+      "def_rating": 3.57,
+      "def_rank": 14
     },
     {
       "ovr_rank": 22,
@@ -1082,17 +1082,6 @@
     },
     {
       "ovr_rank": 99,
-      "school": "Father Tolton",
-      "classification": 2,
-      "district": 6,
-      "ovr_rating": 0.72,
-      "off_rating": 0.01,
-      "off_rank": 112,
-      "def_rating": 0.71,
-      "def_rank": 93
-    },
-    {
-      "ovr_rank": 100,
       "school": "Kirksville",
       "classification": 2,
       "district": 6,
@@ -1101,6 +1090,17 @@
       "off_rank": 116,
       "def_rating": 0.82,
       "def_rank": 86
+    },
+    {
+      "ovr_rank": 100,
+      "school": "Father Tolton",
+      "classification": 2,
+      "district": 6,
+      "ovr_rating": 0.72,
+      "off_rating": 0.01,
+      "off_rank": 112,
+      "def_rating": 0.71,
+      "def_rank": 93
     },
     {
       "ovr_rank": 101,
@@ -1137,17 +1137,6 @@
     },
     {
       "ovr_rank": 104,
-      "school": "Lutheran South",
-      "classification": 2,
-      "district": 1,
-      "ovr_rating": 0.39,
-      "off_rating": 0.39,
-      "off_rank": 105,
-      "def_rating": -0.0,
-      "def_rank": 114
-    },
-    {
-      "ovr_rank": 105,
       "school": "Hickman",
       "classification": 4,
       "district": 6,
@@ -1156,6 +1145,17 @@
       "off_rank": 117,
       "def_rating": 0.5,
       "def_rank": 102
+    },
+    {
+      "ovr_rank": 105,
+      "school": "Lutheran South",
+      "classification": 2,
+      "district": 1,
+      "ovr_rating": 0.39,
+      "off_rating": 0.39,
+      "off_rank": 105,
+      "def_rating": -0.0,
+      "def_rank": 114
     },
     {
       "ovr_rank": 106,
@@ -1555,17 +1555,6 @@
     },
     {
       "ovr_rank": 142,
-      "school": "Eugene",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -2.03,
-      "off_rating": -1.17,
-      "off_rank": 146,
-      "def_rating": -0.86,
-      "def_rank": 135
-    },
-    {
-      "ovr_rank": 143,
       "school": "Maplewood-Richmond Hts.",
       "classification": 2,
       "district": 2,
@@ -1574,6 +1563,17 @@
       "off_rank": 132,
       "def_rating": -1.35,
       "def_rank": 148
+    },
+    {
+      "ovr_rank": 143,
+      "school": "Eugene",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -2.03,
+      "off_rating": -1.17,
+      "off_rank": 146,
+      "def_rating": -0.86,
+      "def_rank": 135
     },
     {
       "ovr_rank": 144,
@@ -2325,17 +2325,6 @@
     },
     {
       "ovr_rank": 212,
-      "school": "Faith Christian Academy",
-      "classification": 1,
-      "district": 4,
-      "ovr_rating": -8.18,
-      "off_rating": -4.24,
-      "off_rank": 219,
-      "def_rating": -3.94,
-      "def_rank": 203
-    },
-    {
-      "ovr_rank": 213,
       "school": "McDonald County",
       "classification": 3,
       "district": 6,
@@ -2344,6 +2333,17 @@
       "off_rank": 205,
       "def_rating": -4.84,
       "def_rank": 214
+    },
+    {
+      "ovr_rank": 213,
+      "school": "Faith Christian Academy",
+      "classification": 1,
+      "district": 4,
+      "ovr_rating": -8.18,
+      "off_rating": -4.24,
+      "off_rank": 219,
+      "def_rating": -3.94,
+      "def_rank": 203
     },
     {
       "ovr_rank": 214,
