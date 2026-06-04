@@ -9,8 +9,8 @@ Timberland,6.59,2.72,3.88
 Kirkwood,6.47,3.04,3.43
 North Point,6.37,2.92,3.45
 Park Hill,6.36,3.07,3.29
-Liberty (Wentzville),6.31,2.63,3.68
 Francis Howell North,6.31,2.54,3.76
+Liberty (Wentzville),6.31,2.63,3.68
 Rockwood Summit,6.27,2.63,3.64
 Parkway West,6.21,3.18,3.03
 Ft. Zumwalt North,6.21,2.41,3.80
@@ -18,8 +18,8 @@ Nixa,6.00,3.08,2.92
 Jackson,6.00,3.33,2.67
 Lafayette (Wildwood),5.96,2.26,3.70
 St. Vincent,5.91,3.94,1.97
-Liberty North,5.88,2.99,2.89
 Ursuline Academy,5.88,2.31,3.57
+Liberty North,5.88,2.99,2.89
 Blue Springs South,5.79,2.47,3.31
 Eureka,5.76,2.47,3.29
 Lee's Summit North,5.68,2.85,2.83
@@ -28,8 +28,8 @@ Webster Groves,5.66,2.47,3.19
 St. Michael the Archangel,5.62,2.92,2.70
 Francis Howell Central,5.61,1.96,3.65
 St. Teresa's Academy,5.54,2.90,2.65
-St. Pius X (Kansas City),5.27,2.58,2.68
 Lindbergh,5.27,2.08,3.19
+St. Pius X (Kansas City),5.27,2.58,2.68
 Park Hill South,5.17,2.19,2.97
 Ft. Zumwalt East,5.09,1.62,3.47
 Oakville,5.08,2.30,2.78
@@ -97,13 +97,13 @@ Metro,1.22,0.57,0.65
 Raymore-Peculiar,1.18,1.05,0.13
 Maryville,1.00,0.45,0.55
 Winfield,0.90,0.14,0.75
-Kirksville,0.72,-0.11,0.82
 Father Tolton,0.72,0.01,0.71
+Kirksville,0.72,-0.11,0.82
 Hillsboro,0.60,-0.34,0.94
-Sullivan,0.55,0.92,-0.37
 Clinton,0.55,0.51,0.04
-Hickman,0.39,-0.11,0.50
+Sullivan,0.55,0.92,-0.37
 Lutheran South,0.39,0.39,-0.00
+Hickman,0.39,-0.11,0.50
 Webb City,0.38,0.51,-0.13
 Poplar Bluff,0.30,0.80,-0.50
 Fort Osage,0.27,0.23,0.04
@@ -195,8 +195,8 @@ Liberty (Mountain View),-6.27,-3.39,-2.88
 Fair Grove,-6.29,-2.81,-3.48
 Lutheran North,-6.46,-2.88,-3.57
 Knob Noster,-6.56,-3.50,-3.06
-Hancock,-6.57,-3.29,-3.28
 University City,-6.57,-2.46,-4.11
+Hancock,-6.57,-3.29,-3.28
 Grandview,-6.59,-2.69,-3.90
 Cameron,-6.72,-3.05,-3.66
 Cardinal Ritter,-6.87,-3.12,-3.75
@@ -210,8 +210,8 @@ Center,-7.35,-3.19,-4.16
 Winnetonka,-7.84,-3.06,-4.78
 Aurora,-7.95,-3.75,-4.20
 Ewing Marion Kauffman with University Academy Charter,-8.14,-3.58,-4.56
-McDonald County,-8.18,-3.34,-4.84
 Faith Christian Academy,-8.18,-4.24,-3.94
+McDonald County,-8.18,-3.34,-4.84
 Raytown,-8.46,-3.44,-5.02
 Fatima,-8.63,-3.20,-5.43
 Raytown South,-8.86,-3.99,-4.87
