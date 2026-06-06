@@ -1,61 +1,61 @@
 Team,OVR Rating,OFF Rating,DEF Rating
-St. Vincent,5.91,3.94,1.97
-Springfield Catholic,5.03,2.37,2.67
-Westminster Christian Academy,4.83,2.15,2.67
-Orchard Farm,4.45,1.86,2.60
-Pleasant Hill,4.06,2.39,1.67
-Clayton,3.79,1.65,2.15
-St. Pius X (Festus),3.71,2.11,1.60
-Logan-Rogersville,3.54,2.11,1.43
-Southern Boone,2.78,2.09,0.69
-Incarnate Word Academy,2.58,1.61,0.97
-Visitation Academy,2.37,0.73,1.64
-Perryville,1.71,1.43,0.28
-Harrisonville,1.64,1.47,0.16
-St. Francis Borgia,1.61,0.98,0.63
-Metro,1.22,0.57,0.65
-Maryville,1.00,0.45,0.55
-Winfield,0.90,0.14,0.75
-Kirksville,0.72,-0.10,0.82
-Father Tolton,0.72,0.01,0.71
-Clinton,0.56,0.52,0.04
-Sullivan,0.55,0.92,-0.37
-Lutheran South,0.39,0.40,-0.01
-St. Charles West,-0.06,-0.38,0.31
-St. Clair,-0.35,-0.06,-0.29
-Wright City,-0.87,-0.73,-0.15
-Excelsior Springs,-0.90,-0.31,-0.60
-Savannah,-1.22,-0.38,-0.84
-Moberly,-1.25,-1.14,-0.11
-Bishop LeBlond,-1.82,-0.66,-1.15
-North County,-1.86,-1.15,-0.70
-Maplewood-Richmond Hts.,-1.98,-0.66,-1.32
-Saxony Lutheran,-2.10,-0.90,-1.20
-Barstow,-2.50,-0.63,-1.86
-Oak Grove,-2.60,-1.25,-1.35
-Osage,-2.70,-1.19,-1.51
-Boonville,-2.85,-2.10,-0.75
-Cassville,-2.88,-1.92,-0.96
-Affton,-3.30,-0.94,-2.36
-Chillicothe,-3.56,-1.96,-1.60
-Benton,-3.72,-1.89,-1.83
-St. James,-4.17,-2.73,-1.44
-Monett,-4.77,-2.51,-2.26
-Bayless,-4.81,-3.57,-1.24
-Stover with Cole Camp,-4.94,-2.80,-2.14
-Mexico,-5.08,-2.39,-2.69
-Gateway Science Charter,-5.45,-1.54,-3.91
-Owensville,-5.59,-2.01,-3.58
-Odessa,-5.68,-2.66,-3.02
-STEAM Academy,-6.07,-3.15,-2.92
-Fulton,-6.16,-2.15,-4.00
-Knob Noster,-6.56,-3.50,-3.06
-Cardinal Ritter,-6.82,-3.10,-3.72
-Fredericktown,-7.07,-2.46,-4.61
-Center,-7.34,-3.19,-4.16
-Aurora,-7.95,-3.75,-4.19
-Ewing Marion Kauffman with University Academy Charter,-8.13,-3.58,-4.56
-Guadalupe Centers Charter,-9.07,-5.12,-3.95
-Paseo Academy,-9.49,-4.34,-5.14
-Lafayette (St. Joseph),-10.34,-4.52,-5.81
-Jennings,-12.80,-5.00,-7.80
+St. Vincent,5.62,3.37,2.24
+Springfield Catholic,4.93,2.05,2.88
+Westminster Christian Academy,4.66,1.62,3.04
+Orchard Farm,4.27,1.81,2.46
+Pleasant Hill,4.17,2.35,1.83
+Clayton,3.91,1.52,2.38
+St. Pius X (Festus),3.53,2.05,1.48
+Logan-Rogersville,3.36,2.05,1.31
+Southern Boone,2.52,1.79,0.72
+Incarnate Word Academy,2.40,1.56,0.83
+Visitation Academy,2.15,0.67,1.48
+Harrisonville,1.60,1.50,0.10
+Perryville,1.51,1.35,0.16
+St. Francis Borgia,1.36,0.80,0.56
+Metro,1.05,0.48,0.57
+Maryville,0.76,0.20,0.56
+Winfield,0.72,0.06,0.66
+Kirksville,0.57,-0.17,0.73
+Father Tolton,0.56,-0.03,0.59
+Clinton,0.44,0.46,-0.03
+Sullivan,0.36,0.84,-0.47
+Lutheran South,0.20,0.35,-0.16
+St. Charles West,-0.25,-0.47,0.22
+St. Clair,-0.53,-0.14,-0.39
+Excelsior Springs,-0.99,-0.33,-0.66
+Wright City,-1.05,-0.80,-0.24
+Savannah,-1.34,-0.40,-0.93
+Moberly,-1.41,-1.20,-0.21
+Bishop LeBlond,-1.94,-0.69,-1.25
+North County,-2.04,-1.24,-0.80
+Maplewood-Richmond Hts.,-2.15,-0.70,-1.45
+Saxony Lutheran,-2.30,-1.01,-1.29
+Barstow,-2.50,-0.59,-1.90
+Oak Grove,-2.66,-1.27,-1.39
+Osage,-2.88,-1.27,-1.61
+Boonville,-3.01,-2.16,-0.85
+Cassville,-3.09,-2.00,-1.09
+Affton,-3.47,-1.02,-2.45
+Chillicothe,-3.69,-2.00,-1.68
+Benton,-3.84,-1.92,-1.92
+St. James,-4.35,-2.80,-1.55
+Monett,-4.97,-2.61,-2.36
+Bayless,-4.99,-3.65,-1.34
+Stover with Cole Camp,-5.10,-2.86,-2.24
+Mexico,-5.25,-2.46,-2.79
+Gateway Science Charter,-5.63,-1.62,-4.00
+Owensville,-5.77,-2.09,-3.68
+Odessa,-5.77,-2.69,-3.08
+STEAM Academy,-6.24,-3.24,-3.00
+Fulton,-6.32,-2.20,-4.12
+Knob Noster,-6.64,-3.52,-3.12
+Cardinal Ritter,-6.99,-3.18,-3.81
+Fredericktown,-7.28,-2.50,-4.77
+Center,-7.41,-3.20,-4.21
+Aurora,-8.15,-3.85,-4.31
+Ewing Marion Kauffman with University Academy Charter,-8.20,-3.59,-4.61
+Guadalupe Centers Charter,-9.14,-5.15,-3.99
+Paseo Academy,-9.58,-4.38,-5.20
+Lafayette (St. Joseph),-10.45,-4.56,-5.90
+Jennings,-12.92,-5.00,-7.92
