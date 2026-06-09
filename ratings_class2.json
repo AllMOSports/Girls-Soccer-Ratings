@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 08, 2026 at 07:50 AM",
+  "last_updated": "June 09, 2026 at 06:45 AM",
   "league_average": 2.43,
   "classification": 2,
   "teams": [
@@ -599,17 +599,6 @@
     },
     {
       "ovr_rank": 55,
-      "school": "Aurora",
-      "classification": 2,
-      "district": 5,
-      "ovr_rating": -8.04,
-      "off_rating": -3.8,
-      "off_rank": 56,
-      "def_rating": -4.24,
-      "def_rank": 55
-    },
-    {
-      "ovr_rank": 56,
       "school": "Ewing Marion Kauffman with University Academy Charter",
       "classification": 2,
       "district": 7,
@@ -618,6 +607,17 @@
       "off_rank": 54,
       "def_rating": -4.51,
       "def_rank": 56
+    },
+    {
+      "ovr_rank": 56,
+      "school": "Aurora",
+      "classification": 2,
+      "district": 5,
+      "ovr_rating": -8.04,
+      "off_rating": -3.8,
+      "off_rank": 56,
+      "def_rating": -4.24,
+      "def_rank": 55
     },
     {
       "ovr_rank": 57,

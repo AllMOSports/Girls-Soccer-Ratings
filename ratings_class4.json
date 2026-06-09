@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 08, 2026 at 07:50 AM",
+  "last_updated": "June 09, 2026 at 06:45 AM",
   "league_average": 2.43,
   "classification": 4,
   "teams": [
@@ -104,17 +104,6 @@
     },
     {
       "ovr_rank": 10,
-      "school": "Liberty (Wentzville)",
-      "classification": 4,
-      "district": 3,
-      "ovr_rating": 6.21,
-      "off_rating": 2.59,
-      "off_rank": 16,
-      "def_rating": 3.62,
-      "def_rank": 10
-    },
-    {
-      "ovr_rank": 11,
       "school": "Francis Howell North",
       "classification": 4,
       "district": 2,
@@ -123,6 +112,17 @@
       "off_rank": 18,
       "def_rating": 3.72,
       "def_rank": 8
+    },
+    {
+      "ovr_rank": 11,
+      "school": "Liberty (Wentzville)",
+      "classification": 4,
+      "district": 3,
+      "ovr_rating": 6.21,
+      "off_rating": 2.59,
+      "off_rank": 16,
+      "def_rating": 3.62,
+      "def_rank": 10
     },
     {
       "ovr_rank": 12,
@@ -203,17 +203,6 @@
     },
     {
       "ovr_rank": 19,
-      "school": "St. Teresa's Academy",
-      "classification": 4,
-      "district": 7,
-      "ovr_rating": 5.79,
-      "off_rating": 2.88,
-      "off_rank": 14,
-      "def_rating": 2.9,
-      "def_rank": 23
-    },
-    {
-      "ovr_rank": 20,
       "school": "Nixa",
       "classification": 4,
       "district": 5,
@@ -222,6 +211,17 @@
       "off_rank": 11,
       "def_rating": 2.9,
       "def_rank": 24
+    },
+    {
+      "ovr_rank": 20,
+      "school": "St. Teresa's Academy",
+      "classification": 4,
+      "district": 7,
+      "ovr_rating": 5.79,
+      "off_rating": 2.88,
+      "off_rank": 14,
+      "def_rating": 2.9,
+      "def_rank": 23
     },
     {
       "ovr_rank": 21,
