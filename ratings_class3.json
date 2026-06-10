@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 09, 2026 at 06:45 AM",
+  "last_updated": "June 10, 2026 at 06:58 AM",
   "league_average": 2.43,
   "classification": 3,
   "teams": [
@@ -82,17 +82,6 @@
     },
     {
       "ovr_rank": 8,
-      "school": "Kearney",
-      "classification": 3,
-      "district": 8,
-      "ovr_rating": 4.64,
-      "off_rating": 3.84,
-      "off_rank": 1,
-      "def_rating": 0.8,
-      "def_rank": 26
-    },
-    {
-      "ovr_rank": 9,
       "school": "Helias Catholic",
       "classification": 3,
       "district": 4,
@@ -101,6 +90,17 @@
       "off_rank": 9,
       "def_rating": 2.34,
       "def_rank": 8
+    },
+    {
+      "ovr_rank": 9,
+      "school": "Kearney",
+      "classification": 3,
+      "district": 8,
+      "ovr_rating": 4.64,
+      "off_rating": 3.84,
+      "off_rank": 1,
+      "def_rating": 0.8,
+      "def_rank": 26
     },
     {
       "ovr_rank": 10,
@@ -401,17 +401,6 @@
     },
     {
       "ovr_rank": 37,
-      "school": "Union",
-      "classification": 3,
-      "district": 4,
-      "ovr_rating": -0.36,
-      "off_rating": -1.05,
-      "off_rank": 43,
-      "def_rating": 0.7,
-      "def_rank": 29
-    },
-    {
-      "ovr_rank": 38,
       "school": "Carl Junction",
       "classification": 3,
       "district": 6,
@@ -420,6 +409,17 @@
       "off_rank": 38,
       "def_rating": 0.21,
       "def_rank": 34
+    },
+    {
+      "ovr_rank": 38,
+      "school": "Union",
+      "classification": 3,
+      "district": 4,
+      "ovr_rating": -0.36,
+      "off_rating": -1.05,
+      "off_rank": 43,
+      "def_rating": 0.7,
+      "def_rank": 29
     },
     {
       "ovr_rank": 39,

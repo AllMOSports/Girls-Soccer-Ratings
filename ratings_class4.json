@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 09, 2026 at 06:45 AM",
+  "last_updated": "June 10, 2026 at 06:58 AM",
   "league_average": 2.43,
   "classification": 4,
   "teams": [
@@ -104,17 +104,6 @@
     },
     {
       "ovr_rank": 10,
-      "school": "Francis Howell North",
-      "classification": 4,
-      "district": 2,
-      "ovr_rating": 6.21,
-      "off_rating": 2.49,
-      "off_rank": 18,
-      "def_rating": 3.72,
-      "def_rank": 8
-    },
-    {
-      "ovr_rank": 11,
       "school": "Liberty (Wentzville)",
       "classification": 4,
       "district": 3,
@@ -123,6 +112,17 @@
       "off_rank": 16,
       "def_rating": 3.62,
       "def_rank": 10
+    },
+    {
+      "ovr_rank": 11,
+      "school": "Francis Howell North",
+      "classification": 4,
+      "district": 2,
+      "ovr_rating": 6.21,
+      "off_rating": 2.49,
+      "off_rank": 18,
+      "def_rating": 3.72,
+      "def_rank": 8
     },
     {
       "ovr_rank": 12,
