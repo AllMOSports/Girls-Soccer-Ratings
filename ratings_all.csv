@@ -36,11 +36,11 @@ Ft. Zumwalt East,4.99,1.57,3.42
 Ladue Horton Watkins,4.84,2.10,2.75
 Marquette,4.81,2.19,2.62
 Lee's Summit,4.78,1.93,2.86
-Springfield Catholic,4.76,2.30,2.46
 John Burroughs,4.76,1.87,2.89
+Springfield Catholic,4.76,2.30,2.46
 Westminster Christian Academy,4.74,2.12,2.63
-Helias Catholic,4.64,2.31,2.34
 Kearney,4.64,3.84,0.80
+Helias Catholic,4.64,2.31,2.34
 MICDS,4.57,2.57,2.01
 Orchard Farm,4.36,1.81,2.55
 Pleasant Hill,4.36,2.50,1.87
@@ -80,15 +80,15 @@ Marshall,2.11,1.40,0.71
 Parkway Central,2.07,1.03,1.04
 Capital City,1.99,1.35,0.64
 Platte County,1.92,0.97,0.95
-North Kansas City,1.88,0.73,1.15
 Villa Duchesne,1.88,0.65,1.23
+North Kansas City,1.88,0.73,1.15
 Pacific,1.86,0.45,1.41
 Grain Valley,1.80,0.86,0.94
 Harrisonville,1.77,1.54,0.23
 Hannibal,1.72,1.18,0.53
 Notre Dame (Cape Girardeau),1.72,0.62,1.10
-Republic,1.63,1.02,0.61
 Holt,1.63,0.57,1.06
+Republic,1.63,1.02,0.61
 Perryville,1.61,1.38,0.24
 Festus,1.59,0.04,1.54
 St. Francis Borgia,1.52,0.94,0.59
@@ -126,8 +126,8 @@ Waynesville,-0.78,-0.70,-0.08
 Excelsior Springs,-0.81,-0.26,-0.55
 Wright City,-0.95,-0.76,-0.18
 Hazelwood West,-1.04,0.39,-1.43
-New Covenant Academy,-1.13,0.04,-1.17
 Savannah,-1.13,-0.34,-0.80
+New Covenant Academy,-1.13,0.04,-1.17
 Blair Oaks,-1.23,-1.17,-0.06
 Neosho,-1.27,-0.80,-0.47
 Moberly,-1.28,-1.16,-0.13
@@ -135,8 +135,8 @@ Brentwood,-1.36,-0.24,-1.12
 Mid-Buchanan,-1.39,-1.14,-0.26
 William Chrisman,-1.47,0.04,-1.51
 Farmington,-1.53,-1.25,-0.27
-Whitfield,-1.74,-0.82,-0.93
 Bishop LeBlond,-1.74,-0.62,-1.12
+Whitfield,-1.74,-0.82,-0.93
 Principia,-1.85,-0.76,-1.09
 North County,-1.93,-1.19,-0.74
 Maplewood-Richmond Hts.,-2.06,-0.69,-1.36
@@ -171,8 +171,8 @@ Lebanon,-4.58,-2.72,-1.87
 Belton,-4.65,-2.24,-2.41
 California,-4.73,-3.21,-1.52
 Bishop DuBourg,-4.74,-1.73,-3.01
-Monett,-4.86,-2.56,-2.30
 Valley Park,-4.86,-2.74,-2.12
+Monett,-4.86,-2.56,-2.30
 Bayless,-4.89,-3.61,-1.28
 Parkview,-4.91,-2.98,-1.94
 Stover with Cole Camp,-4.98,-2.82,-2.16
@@ -208,8 +208,8 @@ Center,-7.25,-3.14,-4.11
 Greenwood,-7.35,-4.33,-3.01
 Hazelwood East,-7.41,-2.79,-4.63
 Winnetonka,-7.75,-3.01,-4.74
-Ewing Marion Kauffman with University Academy Charter,-8.04,-3.52,-4.51
 Aurora,-8.04,-3.80,-4.24
+Ewing Marion Kauffman with University Academy Charter,-8.04,-3.52,-4.51
 Faith Christian Academy,-8.09,-4.19,-3.90
 McDonald County,-8.27,-3.38,-4.89
 Raytown,-8.39,-3.40,-4.98
