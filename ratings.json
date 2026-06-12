@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 11, 2026 at 07:31 AM",
+  "last_updated": "June 12, 2026 at 07:03 AM",
   "league_average": 2.43,
   "teams": [
     {
@@ -235,17 +235,6 @@
     },
     {
       "ovr_rank": 22,
-      "school": "Nixa",
-      "classification": 4,
-      "district": 5,
-      "ovr_rating": 5.79,
-      "off_rating": 2.89,
-      "off_rank": 15,
-      "def_rating": 2.9,
-      "def_rank": 28
-    },
-    {
-      "ovr_rank": 23,
       "school": "St. Teresa's Academy",
       "classification": 4,
       "district": 7,
@@ -254,6 +243,17 @@
       "off_rank": 18,
       "def_rating": 2.9,
       "def_rank": 27
+    },
+    {
+      "ovr_rank": 23,
+      "school": "Nixa",
+      "classification": 4,
+      "district": 5,
+      "ovr_rating": 5.79,
+      "off_rating": 2.89,
+      "off_rank": 15,
+      "def_rating": 2.9,
+      "def_rank": 28
     },
     {
       "ovr_rank": 24,
@@ -411,17 +411,6 @@
     },
     {
       "ovr_rank": 38,
-      "school": "John Burroughs",
-      "classification": 3,
-      "district": 2,
-      "ovr_rating": 4.76,
-      "off_rating": 1.87,
-      "off_rank": 52,
-      "def_rating": 2.89,
-      "def_rank": 29
-    },
-    {
-      "ovr_rank": 39,
       "school": "Springfield Catholic",
       "classification": 2,
       "district": 5,
@@ -430,6 +419,17 @@
       "off_rank": 33,
       "def_rating": 2.46,
       "def_rank": 43
+    },
+    {
+      "ovr_rank": 39,
+      "school": "John Burroughs",
+      "classification": 3,
+      "district": 2,
+      "ovr_rating": 4.76,
+      "off_rating": 1.87,
+      "off_rank": 52,
+      "def_rating": 2.89,
+      "def_rank": 29
     },
     {
       "ovr_rank": 40,
@@ -818,17 +818,6 @@
     },
     {
       "ovr_rank": 75,
-      "school": "Notre Dame (St. Louis)",
-      "classification": 3,
-      "district": 2,
-      "ovr_rating": 2.18,
-      "off_rating": 1.09,
-      "off_rank": 73,
-      "def_rating": 1.08,
-      "def_rank": 77
-    },
-    {
-      "ovr_rank": 76,
       "school": "Lincoln College Prep",
       "classification": 3,
       "district": 7,
@@ -837,6 +826,17 @@
       "off_rank": 81,
       "def_rating": 1.23,
       "def_rank": 74
+    },
+    {
+      "ovr_rank": 76,
+      "school": "Notre Dame (St. Louis)",
+      "classification": 3,
+      "district": 2,
+      "ovr_rating": 2.18,
+      "off_rating": 1.09,
+      "off_rank": 73,
+      "def_rating": 1.08,
+      "def_rank": 77
     },
     {
       "ovr_rank": 77,
@@ -1401,17 +1401,6 @@
     },
     {
       "ovr_rank": 128,
-      "school": "Savannah",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -1.13,
-      "off_rating": -0.34,
-      "off_rank": 120,
-      "def_rating": -0.8,
-      "def_rank": 132
-    },
-    {
-      "ovr_rank": 129,
       "school": "New Covenant Academy",
       "classification": 1,
       "district": 3,
@@ -1420,6 +1409,17 @@
       "off_rank": 112,
       "def_rating": -1.17,
       "def_rank": 142
+    },
+    {
+      "ovr_rank": 129,
+      "school": "Savannah",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -1.13,
+      "off_rating": -0.34,
+      "off_rank": 120,
+      "def_rating": -0.8,
+      "def_rank": 132
     },
     {
       "ovr_rank": 130,
@@ -1500,17 +1500,6 @@
     },
     {
       "ovr_rank": 137,
-      "school": "Bishop LeBlond",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -1.74,
-      "off_rating": -0.62,
-      "off_rank": 127,
-      "def_rating": -1.12,
-      "def_rank": 140
-    },
-    {
-      "ovr_rank": 138,
       "school": "Whitfield",
       "classification": 3,
       "district": 3,
@@ -1519,6 +1508,17 @@
       "off_rank": 135,
       "def_rating": -0.93,
       "def_rank": 135
+    },
+    {
+      "ovr_rank": 138,
+      "school": "Bishop LeBlond",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -1.74,
+      "off_rating": -0.62,
+      "off_rank": 127,
+      "def_rating": -1.12,
+      "def_rank": 140
     },
     {
       "ovr_rank": 139,
@@ -2303,17 +2303,6 @@
     },
     {
       "ovr_rank": 210,
-      "school": "Aurora",
-      "classification": 2,
-      "district": 5,
-      "ovr_rating": -8.04,
-      "off_rating": -3.8,
-      "off_rank": 215,
-      "def_rating": -4.24,
-      "def_rank": 208
-    },
-    {
-      "ovr_rank": 211,
       "school": "Ewing Marion Kauffman with University Academy Charter",
       "classification": 2,
       "district": 7,
@@ -2322,6 +2311,17 @@
       "off_rank": 212,
       "def_rating": -4.51,
       "def_rank": 209
+    },
+    {
+      "ovr_rank": 211,
+      "school": "Aurora",
+      "classification": 2,
+      "district": 5,
+      "ovr_rating": -8.04,
+      "off_rating": -3.8,
+      "off_rank": 215,
+      "def_rating": -4.24,
+      "def_rank": 208
     },
     {
       "ovr_rank": 212,

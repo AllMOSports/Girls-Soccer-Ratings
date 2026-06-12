@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 11, 2026 at 07:31 AM",
+  "last_updated": "June 12, 2026 at 07:03 AM",
   "league_average": 2.43,
   "classification": 4,
   "teams": [
@@ -203,17 +203,6 @@
     },
     {
       "ovr_rank": 19,
-      "school": "Nixa",
-      "classification": 4,
-      "district": 5,
-      "ovr_rating": 5.79,
-      "off_rating": 2.89,
-      "off_rank": 11,
-      "def_rating": 2.9,
-      "def_rank": 24
-    },
-    {
-      "ovr_rank": 20,
       "school": "St. Teresa's Academy",
       "classification": 4,
       "district": 7,
@@ -222,6 +211,17 @@
       "off_rank": 14,
       "def_rating": 2.9,
       "def_rank": 23
+    },
+    {
+      "ovr_rank": 20,
+      "school": "Nixa",
+      "classification": 4,
+      "district": 5,
+      "ovr_rating": 5.79,
+      "off_rating": 2.89,
+      "off_rank": 11,
+      "def_rating": 2.9,
+      "def_rank": 24
     },
     {
       "ovr_rank": 21,
